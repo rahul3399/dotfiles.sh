@@ -1,0 +1,31 @@
+<md:EntityDescriptor entityID="https://b9ae-49-248-140-166.ngrok-free.app/1/7e145a17-9019-41ac-87cc-fc9b41004c90" ID="_58eb6efc-1f19-431b-8146-3fef71f908d0"
+                     xmlns:md="urn:oasis:names:tc:SAML:2.0:metadata">
+    <md:IDPSSODescriptor ID="_04494e78-cc4f-404b-9fa8-16373b073228"
+                         protocolSupportEnumeration="urn:oasis:names:tc:SAML:2.0:protocol"
+                         WantAuthnRequestsSigned="true">
+        <md:KeyDescriptor use="signing">
+            <KeyInfo xmlns="http://www.w3.org/2000/09/xmldsig#">
+                <X509Data>
+                    <X509Certificate>
+                        MIICqjCCAZKgAwIBAgIIFwNe3bn8wqUwDQYJKoZIhvcNAQELBQAwFTETMBEGA1UEAxMKbWluaU9yYW5nZTAeFw0yNDAxMDUxMTU4MDJaFw0zNDAxMDIxMTU4MDJaMBUxEzARBgNVBAMTCm1pbmlPcmFuZ2UwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCJmKMnaZB4mTxnBKZwQhGJuG8GakS9DpVM/GU8I75pcQPNQfd9bDM9I3FoxEtqqxbdPO050MWTwIVtfOJ2fZJcVTHr7nOS9pYNiMPZDt4MSNJMS1eAFOwQaY6esUjxSNnMAenV6ZFWIMcVa7xGu9vie5iCRZWfqGOlth6/6ePhLUaZkUAPEVXdOpNB7HuprcIT1wpr3rIDO0v48amcy553eDLjcFHB7KbtQgAceU5FzuFawbWpFnetPvAeudvI4wZ4+qf/swwL0SyZdOLn2PnTJCr+zZyv4hNlotDr3+NYsJlBpTxHfR3mUVdvhSFWJdG/CfbKf49Wbyzyc/gA8UzJAgMBAAEwDQYJKoZIhvcNAQELBQADggEBACk4ogckiRFSSO+URll68Uap30EQY7gpn1BiUsp9HY7LsnSu2FkrZbxNhSHylu7cuPuzQpcC4agyswMgOE/1GgI4TVX6RSO+3yyt3MhHpYQcLXmnlUeybHiHaSo1PfTsYKsSL7KWvZbj3Q6nmmKgoKDLwACbPfDLdpg8KURR6zJSYbUEVmq2CF/fdzF6zY38US9bSInMaBgXTnzRtLrALXFPrbTT+kWgjcgElFtz9SKMkeW5Ik1YwoZnSxVF8kW4HfcGb0I6imagwFYH5QeAEyEZFS2iHano8xGCUHxvkORdXeoSP0bPMHyQZLR5/56Djari9B9/37wjKtVTWt2NDfA=
+                    </X509Certificate>
+                </X509Data>
+            </KeyInfo>
+        </md:KeyDescriptor>
+        <md:NameIDFormat>urn:oasis:names:tc:SAML:1.1:nameid-format:emailAddress</md:NameIDFormat>
+        <md:SingleSignOnService Binding="urn:oasis:names:tc:SAML:2.0:bindings:HTTP-Redirect" Location="https://b9ae-49-248-140-166.ngrok-free.app/idp/samlsso/7e145a17-9019-41ac-87cc-fc9b41004c90"/>
+        <md:SingleSignOnService Binding="urn:oasis:names:tc:SAML:2.0:bindings:HTTP-POST" Location="https://b9ae-49-248-140-166.ngrok-free.app/idp/samlsso/7e145a17-9019-41ac-87cc-fc9b41004c90"/>
+        <md:SingleLogoutService Binding="urn:oasis:names:tc:SAML:2.0:bindings:HTTP-Redirect" Location="https://b9ae-49-248-140-166.ngrok-free.app/idp/samllogout/7e145a17-9019-41ac-87cc-fc9b41004c90"/>
+        <md:SingleLogoutService Binding="urn:oasis:names:tc:SAML:2.0:bindings:HTTP-POST" Location="https://b9ae-49-248-140-166.ngrok-free.app/idp/samllogout/7e145a17-9019-41ac-87cc-fc9b41004c90"/>
+    </md:IDPSSODescriptor>
+    <md:Organization>
+        <md:OrganizationName xml:lang="en">miniOrange</md:OrganizationName>
+        <md:OrganizationDisplayName xml:lang="en">miniOrange</md:OrganizationDisplayName>
+        <md:OrganizationURL xml:lang="en">www.miniorange.com</md:OrganizationURL>
+    </md:Organization>
+    <md:ContactPerson contactType="technical">
+        <md:GivenName>miniOrange</md:GivenName>
+        <md:SurName>Support</md:SurName>
+        <md:EmailAddress>info@xecurify.com</md:EmailAddress>
+    </md:ContactPerson>
+</md:EntityDescriptor>

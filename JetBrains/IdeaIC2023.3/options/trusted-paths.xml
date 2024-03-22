@@ -1,0 +1,40 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/Applicare" value="true" />
+        <entry key="$USER_HOME$/miniorange/better-reverse-proxy" value="true" />
+        <entry key="$USER_HOME$/miniorange/miniorange-iam-2020/auth-server" value="true" />
+        <entry key="$USER_HOME$/miniorange/miniorange-iam-2020/auth-server-bulk-operations" value="true" />
+        <entry key="$USER_HOME$/miniorange/miniorange-iam-2020/auth-server-cloud" value="true" />
+        <entry key="$USER_HOME$/miniorange/miniorange-iam-2020/auth-server-identity-broker" value="true" />
+        <entry key="$USER_HOME$/miniorange/miniorange-iam-2020/auth-server-onpremise" value="true" />
+        <entry key="$USER_HOME$/miniorange/miniorange-iam-2020/auth-server-parent" value="true" />
+        <entry key="$USER_HOME$/miniorange/miniorange-iam-2020/auth-server-payment" value="true" />
+        <entry key="$USER_HOME$/miniorange/miniorange-iam-2020/auth-server-scheduler" value="true" />
+        <entry key="$USER_HOME$/miniorange/miniorange-iam-2020/auth-server-service-loaders" value="true" />
+        <entry key="$USER_HOME$/miniorange/miniorange-iam-2020/auth-server-tomcat" value="true" />
+        <entry key="$USER_HOME$/miniorange/miniorange-iam-2023-ganeshk/auth-server" value="true" />
+        <entry key="$USER_HOME$/miniorange/miniorange-iam-2023-ganeshk/auth-server-cloud" value="true" />
+        <entry key="$USER_HOME$/miniorange/miniorange-iam-2023-ganeshk/auth-server-identity-broker" value="true" />
+        <entry key="$USER_HOME$/miniorange/miniorange-iam-2023-ganeshk/auth-server-onpremise" value="true" />
+        <entry key="$USER_HOME$/miniorange/miniorange-iam-2023-ganeshk/auth-server-parent" value="true" />
+        <entry key="$USER_HOME$/miniorange/miniorange-iam-2023-ganeshk/auth-server-payment" value="true" />
+        <entry key="$USER_HOME$/miniorange/miniorange-iam-2023-ganeshk/auth-server-scheduler" value="true" />
+        <entry key="$USER_HOME$/miniorange/miniorange-iam-2023-ganeshk/auth-server-service-loaders" value="true" />
+        <entry key="$USER_HOME$/miniorange/miniorange-iam-2023-ganeshk/auth-server-tomcat" value="true" />
+        <entry key="$USER_HOME$/miniorange/miniorange-oracle-chirag/awrostamani/restauth" value="true" />
+        <entry key="$USER_HOME$/miniorange/miniorange-oracle-chirag/ebsauth-saml" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="$USER_HOME$/miniorange/miniorange-iam-2020" />
+        <option value="$USER_HOME$/miniorange/miniorange-oracle-chirag" />
+        <option value="$USER_HOME$" />
+      </list>
+    </option>
+  </component>
+</application>

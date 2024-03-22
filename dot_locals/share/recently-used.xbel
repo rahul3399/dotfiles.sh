@@ -1,0 +1,746 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/rahul/Downloads/Rahul_Cover_Letter_IAM.pdf" added="2023-12-31T06:22:13.086070Z" modified="2024-02-21T13:50:33.921059Z" visited="2023-12-31T06:22:13.086071Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="&apos;google-chrome %u&apos;" modified="2024-02-21T13:50:33.921055Z" count="7"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rahul/Downloads/Rahul_CV_IAM%20(1).pdf" added="2024-01-10T04:50:44.361329Z" modified="2024-02-21T13:48:31.706068Z" visited="2024-01-10T04:50:44.361330Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="&apos;google-chrome %u&apos;" modified="2024-02-21T13:48:31.706066Z" count="9"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rahul/Downloads/IDPBrokering.jpg" added="2024-02-07T17:35:55.856408Z" modified="2024-02-19T20:41:42.873967Z" visited="2024-02-07T17:35:55.856409Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="&apos;google-chrome %u&apos;" modified="2024-02-19T20:41:42.873965Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rahul/Downloads/AccessGateway%20Architecture-Access_Gateway_Architecture.jpg" added="2024-02-15T18:30:25.661280Z" modified="2024-02-20T07:59:11.497118Z" visited="2024-02-15T18:30:25.661282Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="&apos;google-chrome %u&apos;" modified="2024-02-20T07:59:11.497117Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rahul/Downloads/_Generic%20JDEdwards%20SSO%20-%20System%20Prerequisites%20for%20POC.pdf" added="2024-02-15T18:38:12.943315Z" modified="2024-02-20T07:59:15.472902Z" visited="2024-02-15T18:38:12.943316Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="&apos;google-chrome %u&apos;" modified="2024-02-20T07:59:15.472901Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rahul/Downloads/Admin%20Manual%20For%20Honda%20(4).pdf" added="2024-02-20T12:14:21.874101Z" modified="2024-02-20T12:14:21.874104Z" visited="2024-02-20T12:14:21.874102Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="&apos;google-chrome %u&apos;" modified="2024-02-20T12:14:21.874103Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rahul/Downloads/Flutter%20SSO%20Demo~insaid.mp4" added="2024-02-21T07:07:02.543491Z" modified="2024-02-21T07:07:02.543499Z" visited="2024-02-21T07:07:02.543492Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="&apos;google-chrome %u&apos;" modified="2024-02-21T07:07:02.543497Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rahul/Downloads/ConfigurationServlet%20(1).class" added="2024-02-21T09:47:02.329009Z" modified="2024-02-21T09:47:48.155501Z" visited="2024-02-21T09:47:02.329010Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-java"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="&apos;google-chrome %u&apos;" modified="2024-02-21T09:47:48.155499Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rahul/Applicare/saml_guidance_saml_flow.png" added="2024-02-23T11:56:57.672848Z" modified="2024-03-18T11:52:16.870212Z" visited="2024-02-23T11:56:57.672848Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="&apos;google-chrome %u&apos;" modified="2024-03-18T11:52:16.870210Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rahul/Downloads/license" added="2024-02-26T11:54:46.929811Z" modified="2024-02-26T11:54:46.929818Z" visited="2024-02-26T11:54:46.929812Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="&apos;google-chrome %u&apos;" modified="2024-02-26T11:54:46.929817Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rahul/Downloads/AccessGateway%20Architecture.drawio%20(1).png" added="2024-02-27T07:02:31.673116Z" modified="2024-02-28T11:18:15.124385Z" visited="2024-02-27T07:02:31.673117Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="&apos;google-chrome %u&apos;" modified="2024-02-28T11:18:15.124383Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rahul/Applicare/Siebel%20CRM" added="2024-02-27T07:02:57.131615Z" modified="2024-02-27T07:02:57.131618Z" visited="2024-02-27T07:02:57.131616Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="&apos;google-chrome %u&apos;" modified="2024-02-27T07:02:57.131617Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rahul/Downloads/okta.json" added="2024-02-28T07:52:06.200848Z" modified="2024-02-28T07:52:06.200852Z" visited="2024-02-28T07:52:06.200849Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/json"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="&apos;google-chrome %u&apos;" modified="2024-02-28T07:52:06.200850Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rahul/Downloads/Acquia_logo.svg.png" added="2024-02-28T11:21:35.487246Z" modified="2024-02-28T11:21:54.607790Z" visited="2024-02-28T11:21:35.487247Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="&apos;google-chrome %u&apos;" modified="2024-02-28T11:21:54.607788Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rahul/index.php" added="2024-02-29T10:50:33.462362Z" modified="2024-02-29T10:50:33.462365Z" visited="2024-02-29T10:50:33.462363Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-php"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-02-29T10:50:33.462364Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rahul/Downloads/Custom%20Solutions%20-%20Rahul%20Mashere%20(1).pdf" added="2024-02-29T11:45:50.314078Z" modified="2024-02-29T11:45:50.314084Z" visited="2024-02-29T11:45:50.314079Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="&apos;google-chrome %u&apos;" modified="2024-02-29T11:45:50.314081Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/skypeforlinux/CodeBlu.io_SAML_SSO%20(1).pdf" added="2024-03-05T08:16:48.974927Z" modified="2024-03-05T08:16:48.974931Z" visited="2024-03-05T08:16:48.974928Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="skypeforlinux" exec="&apos;skypeforlinux %u&apos;" modified="2024-03-05T08:16:48.974929Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rahul/CodeBlu.io_SAML_SSO%20(1).pdf" added="2024-03-05T08:17:11.740192Z" modified="2024-03-05T08:17:11.740195Z" visited="2024-03-05T08:17:11.740193Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="&apos;google-chrome %u&apos;" modified="2024-03-05T08:17:11.740194Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rahul/mossh/peoplesoft-generic-key.pem" added="2024-03-05T10:21:55.466941Z" modified="2024-03-05T10:21:55.466945Z" visited="2024-03-05T10:21:55.466942Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-x509-ca-cert"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="&apos;google-chrome %u&apos;" modified="2024-03-05T10:21:55.466943Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rahul/Downloads/DALL%C2%B7E%202024-03-05%2016.15.49%20-%20You%20find%20yourself%20standing%20in%20the%20dimly%20lit%20lobby%20of%20an%20ancient,%20seemingly%20abandoned%20hotel.%20Cobwebs%20dangle%20from%20the%20chandeliers,%20and%20a%20thick%20layer%20of%20.webp" added="2024-03-05T10:46:00.557762Z" modified="2024-03-05T10:46:00.557769Z" visited="2024-03-05T10:46:00.557763Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/webp"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="&apos;google-chrome %u&apos;" modified="2024-03-05T10:46:00.557766Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rahul/Downloads/image%20(2).png" added="2024-03-06T10:07:54.803265Z" modified="2024-03-06T10:07:54.803276Z" visited="2024-03-06T10:07:54.803266Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="&apos;google-chrome %u&apos;" modified="2024-03-06T10:07:54.803274Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rahul/Downloads/honda_flow" added="2024-03-07T10:45:05.385790Z" modified="2024-03-07T12:07:17.786134Z" visited="2024-03-07T10:45:05.385791Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="&apos;google-chrome %u&apos;" modified="2024-03-07T12:07:17.786132Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rahul/Downloads/honda_flow.jpg" added="2024-03-07T12:05:45.095462Z" modified="2024-03-07T12:05:45.095465Z" visited="2024-03-07T12:05:45.095462Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="&apos;google-chrome %u&apos;" modified="2024-03-07T12:05:45.095463Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rahul/Downloads/honda_flow%20(1).jpg" added="2024-03-07T12:07:50.748211Z" modified="2024-03-07T12:07:50.748214Z" visited="2024-03-07T12:07:50.748212Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="&apos;google-chrome %u&apos;" modified="2024-03-07T12:07:50.748212Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rahul/Downloads/Honda%20Vietnam%20-%20HVN%20-%20tatatechnologies.drawio" added="2024-03-07T12:14:10.034555Z" modified="2024-03-08T09:32:07.129406Z" visited="2024-03-07T12:14:10.034555Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="&apos;google-chrome %u&apos;" modified="2024-03-08T09:32:07.129405Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rahul/Downloads/Honda%20Vietnam%20-%20HVN%20-%20tatatechnologies-Prod%20Arch%205%20server.jpg" added="2024-03-07T12:32:17.416536Z" modified="2024-03-07T12:32:17.416539Z" visited="2024-03-07T12:32:17.416537Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="&apos;google-chrome %u&apos;" modified="2024-03-07T12:32:17.416538Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rahul/Downloads/miniOrange%20Quote%20%23IAM0301300%20for%20chesco.org.pdf" added="2024-03-08T05:49:50.454862Z" modified="2024-03-08T05:49:50.454865Z" visited="2024-03-08T05:49:50.454863Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="&apos;google-chrome %u&apos;" modified="2024-03-08T05:49:50.454864Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rahul/Downloads/Honda%20Vietnam%20-%20HVN%20-%20tatatechnologies-Prod%20Arch%205%20server%20(1).jpg" added="2024-03-08T09:45:01.021298Z" modified="2024-03-08T09:45:10.496200Z" visited="2024-03-08T09:45:01.021299Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="&apos;google-chrome %u&apos;" modified="2024-03-08T09:45:10.496197Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rahul/mossh" added="2024-03-11T05:48:25.912258Z" modified="2024-03-11T05:48:25.912262Z" visited="2024-03-11T05:48:25.912259Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-03-11T05:48:25.912260Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rahul/Downloads/Honda%20Vietnam%20-%20HVN%20-%20tatatechnologies-Prod%20Arch%205%20server%20(1)%20(1).jpg" added="2024-03-11T07:08:12.763118Z" modified="2024-03-11T07:08:12.763122Z" visited="2024-03-11T07:08:12.763119Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="&apos;google-chrome %u&apos;" modified="2024-03-11T07:08:12.763120Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rahul/Downloads/mo-sp-metadata%20(1).xml" added="2024-03-15T08:33:37.643357Z" modified="2024-03-15T08:33:37.643360Z" visited="2024-03-15T08:33:37.643358Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/xml"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="&apos;google-chrome %u&apos;" modified="2024-03-15T08:33:37.643358Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rahul/Applicare/miniorange-logo%20(1).png" added="2024-03-18T11:51:39.022388Z" modified="2024-03-18T11:51:57.958970Z" visited="2024-03-18T11:51:39.022389Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="&apos;google-chrome %u&apos;" modified="2024-03-18T11:51:57.958968Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rahul/Applicare/unnamed.png" added="2024-03-18T11:52:32.530394Z" modified="2024-03-18T11:52:37.447739Z" visited="2024-03-18T11:52:32.530395Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="&apos;google-chrome %u&apos;" modified="2024-03-18T11:52:37.447737Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rahul/Downloads/New%20Incognito%20Tab.mp4" added="2024-03-18T12:29:48.984122Z" modified="2024-03-18T12:30:02.157131Z" visited="2024-03-18T12:29:48.984123Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="&apos;google-chrome %u&apos;" modified="2024-03-18T12:30:02.157128Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rahul/api_desc.json" added="2024-03-19T07:51:12.084006Z" modified="2024-03-19T07:51:12.084013Z" visited="2024-03-19T07:51:12.084007Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/json"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-03-19T07:51:12.084010Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rahul/proxy.json" added="2024-03-19T07:56:41.433206Z" modified="2024-03-19T07:56:41.433210Z" visited="2024-03-19T07:56:41.433207Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/json"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-03-19T07:56:41.433208Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rahul/miniorange/rahul/ca.crt" added="2024-03-21T07:00:43.899413Z" modified="2024-03-21T07:01:18.750470Z" visited="2024-03-21T07:00:43.899414Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-x509-ca-cert"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-03-21T07:01:18.750468Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rahul/miniorange/rahul/server.crt" added="2024-03-21T07:01:12.380272Z" modified="2024-03-21T07:01:22.853477Z" visited="2024-03-21T07:01:12.380274Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-x509-ca-cert"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-03-21T07:01:22.853476Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rahul/miniorange/rahul/azure_ad/azure_ad" added="2024-03-21T09:00:32.480283Z" modified="2024-03-21T09:00:32.480286Z" visited="2024-03-21T09:00:32.480284Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-03-21T09:00:32.480284Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///" added="2024-03-21T17:45:43.925229Z" modified="2024-03-21T18:15:06.388223Z" visited="2024-03-21T17:45:43.925230Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-03-21T18:15:06.388222Z" count="9"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rahul" added="2024-03-21T17:45:45.189762Z" modified="2024-03-21T18:14:23.844716Z" visited="2024-03-21T17:45:45.189763Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-03-21T18:14:23.844715Z" count="8"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///mnt" added="2024-03-21T17:46:02.778498Z" modified="2024-03-21T18:13:19.453560Z" visited="2024-03-21T17:46:02.778499Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-03-21T18:13:19.453558Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///mnt/external" added="2024-03-21T17:46:03.793070Z" modified="2024-03-21T18:13:20.663992Z" visited="2024-03-21T17:46:03.793070Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-03-21T18:13:20.663990Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///mnt/external/movies" added="2024-03-21T17:46:08.286766Z" modified="2024-03-21T17:46:08.286770Z" visited="2024-03-21T17:46:08.286766Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-03-21T17:46:08.286768Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///mnt/external/movies/Aparajito%20(1956)%20Criterion%20(1080p%20BluRay%20x265%20HEVC%2010bit%20AAC%201.0%20Bengali%20Tigole)" added="2024-03-21T17:46:09.940014Z" modified="2024-03-21T17:46:09.940017Z" visited="2024-03-21T17:46:09.940014Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-03-21T17:46:09.940015Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///mnt/external/movies/Aparajito%20(1956)%20Criterion%20(1080p%20BluRay%20x265%20HEVC%2010bit%20AAC%201.0%20Bengali%20Tigole)/Aparajito%20(1956)%20Criterion%20(1080p%20BluRay%20x265%2010bit%20Tigole).mkv" added="2024-03-21T17:46:10.887243Z" modified="2024-03-21T17:46:44.801064Z" visited="2024-03-21T17:46:10.887243Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/x-matroska"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-03-21T17:46:44.801061Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///mnt/external/Forza%20Horizon%205" added="2024-03-21T17:47:19.207153Z" modified="2024-03-21T17:47:19.207156Z" visited="2024-03-21T17:47:19.207153Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-03-21T17:47:19.207154Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///mnt/external/Entertainment" added="2024-03-21T17:47:21.385893Z" modified="2024-03-21T17:47:21.385902Z" visited="2024-03-21T17:47:21.385894Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-03-21T17:47:21.385897Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///mnt/external/Entertainment/Movies" added="2024-03-21T17:47:23.247264Z" modified="2024-03-21T17:47:23.247272Z" visited="2024-03-21T17:47:23.247265Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-03-21T17:47:23.247268Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///mnt/external/Entertainment/Movies/Indian" added="2024-03-21T17:47:24.867284Z" modified="2024-03-21T17:47:24.867293Z" visited="2024-03-21T17:47:24.867286Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-03-21T17:47:24.867288Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///mnt/external/Entertainment/Movies/Indian/Hindi" added="2024-03-21T17:47:26.298384Z" modified="2024-03-21T17:47:26.298391Z" visited="2024-03-21T17:47:26.298386Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-03-21T17:47:26.298388Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///mnt/external/Entertainment/Movies/Indian/Hindi/Padmaavat%20(2018)%5BTamil%20Original%5D%202.09GB.mkv" added="2024-03-21T17:47:28.391999Z" modified="2024-03-21T17:47:33.324435Z" visited="2024-03-21T17:47:28.392000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/x-matroska"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-03-21T17:47:33.324433Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///mnt/external/rahul" added="2024-03-21T17:48:01.388946Z" modified="2024-03-21T18:13:25.983985Z" visited="2024-03-21T17:48:01.388947Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-03-21T18:13:25.983983Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///mnt/external/rahul/miniorange" added="2024-03-21T17:48:04.446644Z" modified="2024-03-21T18:14:12.420835Z" visited="2024-03-21T17:48:04.446645Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-03-21T18:14:12.420833Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///mnt/external/rahul/miniorange/miniorange-iam-2020" added="2024-03-21T17:48:12.268017Z" modified="2024-03-21T17:48:12.268021Z" visited="2024-03-21T17:48:12.268018Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-03-21T17:48:12.268019Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///mnt/external/rahul/Downloads" added="2024-03-21T17:50:20.360111Z" modified="2024-03-21T18:13:37.566609Z" visited="2024-03-21T17:50:20.360112Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-03-21T18:13:37.566607Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///mnt/external/rahul/Downloads/resize-17073301811358359437IDPBrokering.jpg" added="2024-03-21T17:50:27.741850Z" modified="2024-03-21T17:50:27.741853Z" visited="2024-03-21T17:50:27.741851Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-03-21T17:50:27.741852Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///mnt/external/rahul/Downloads/SAML-20-Sequence-Diagram-12.png" added="2024-03-21T17:50:34.174541Z" modified="2024-03-21T17:50:34.174545Z" visited="2024-03-21T17:50:34.174542Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-03-21T17:50:34.174543Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home" added="2024-03-21T18:07:47.747982Z" modified="2024-03-21T18:07:47.747986Z" visited="2024-03-21T18:07:47.747983Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-03-21T18:07:47.747984Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rahul/acquia" added="2024-03-21T18:08:39.555176Z" modified="2024-03-21T18:08:39.555179Z" visited="2024-03-21T18:08:39.555177Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-03-21T18:08:39.555177Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rahul/Downloads" added="2024-03-21T18:09:11.915435Z" modified="2024-03-21T18:12:10.981595Z" visited="2024-03-21T18:09:11.915435Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-03-21T18:12:10.981594Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rahul/Downloads/sso" added="2024-03-21T18:09:34.558891Z" modified="2024-03-21T18:09:34.558895Z" visited="2024-03-21T18:09:34.558892Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-03-21T18:09:34.558893Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rahul/Downloads/sso/resources" added="2024-03-21T18:09:34.803468Z" modified="2024-03-21T18:09:34.803471Z" visited="2024-03-21T18:09:34.803469Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-03-21T18:09:34.803470Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rahul/Downloads/reverse-proxy-next" added="2024-03-21T18:10:32.494903Z" modified="2024-03-21T18:10:32.494906Z" visited="2024-03-21T18:10:32.494904Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-03-21T18:10:32.494905Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rahul/works" added="2024-03-21T18:10:57.531771Z" modified="2024-03-21T18:10:57.531774Z" visited="2024-03-21T18:10:57.531771Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-03-21T18:10:57.531772Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rahul/works/gits" added="2024-03-21T18:10:59.369290Z" modified="2024-03-21T18:10:59.369296Z" visited="2024-03-21T18:10:59.369291Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-03-21T18:10:59.369292Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rahul/vmware-host-modules" added="2024-03-21T18:11:33.280466Z" modified="2024-03-21T18:11:33.280470Z" visited="2024-03-21T18:11:33.280466Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-03-21T18:11:33.280468Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rahul/Pictures" added="2024-03-21T18:11:49.056981Z" modified="2024-03-21T18:11:49.056984Z" visited="2024-03-21T18:11:49.056981Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-03-21T18:11:49.056982Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rahul/personal" added="2024-03-21T18:11:50.604013Z" modified="2024-03-21T18:11:50.604023Z" visited="2024-03-21T18:11:50.604015Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-03-21T18:11:50.604017Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rahul/oauth2-proxy" added="2024-03-21T18:11:52.831470Z" modified="2024-03-21T18:11:52.831480Z" visited="2024-03-21T18:11:52.831471Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-03-21T18:11:52.831474Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///mnt/external/rahul/Downloads/activitywatch" added="2024-03-21T18:13:47.846007Z" modified="2024-03-21T18:13:47.846011Z" visited="2024-03-21T18:13:47.846008Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-03-21T18:13:47.846009Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///mnt/external/rahul/miniorange/sdk-and-connectors" added="2024-03-21T18:14:15.758610Z" modified="2024-03-21T18:14:15.758613Z" visited="2024-03-21T18:14:15.758610Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-03-21T18:14:15.758611Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rahul/miniorange" added="2024-03-21T18:14:26.201090Z" modified="2024-03-21T18:14:26.201093Z" visited="2024-03-21T18:14:26.201091Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-03-21T18:14:26.201092Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rahul/miniorange/tomcat" added="2024-03-21T18:14:32.392116Z" modified="2024-03-21T18:14:32.392119Z" visited="2024-03-21T18:14:32.392116Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-03-21T18:14:32.392117Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

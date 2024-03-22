@@ -1,0 +1,127 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="demoSSO" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file>
+        <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="339">
+              <caret line="24" column="68" lean-forward="true" selection-start-line="24" selection-start-column="68" selection-end-line="24" selection-end-column="68" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="XML">
+      <summary usageCount="1" lastUsed="1710841727449" />
+    </fileType>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="XML">
+      <summary usageCount="1" lastUsage="1710841727449" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="AndroidView" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="demoSSO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/rahul/miniorange/mo-mobile-apps/MiniOrangeDemo/demoSSO}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="demoSSO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/rahul/miniorange/mo-mobile-apps/MiniOrangeDemo/demoSSO}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/rahul/miniorange/mo-mobile-apps/MiniOrangeDemo/demoSSO/app}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demoSSO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/rahul/miniorange/mo-mobile-apps/MiniOrangeDemo/demoSSO}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/rahul/miniorange/mo-mobile-apps/MiniOrangeDemo/demoSSO/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/rahul/miniorange/mo-mobile-apps/MiniOrangeDemo/demoSSO/app/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demoSSO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/rahul/miniorange/mo-mobile-apps/MiniOrangeDemo/demoSSO}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/rahul/miniorange/mo-mobile-apps/MiniOrangeDemo/demoSSO/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/rahul/miniorange/mo-mobile-apps/MiniOrangeDemo/demoSSO/app/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/rahul/miniorange/mo-mobile-apps/MiniOrangeDemo/demoSSO/app/src/main}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info id="Build Variants" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25026095" />
+      <window_info id="Structure" order="0" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="4" />
+      <window_info anchor="bottom" id="Terminal" order="4" />
+      <window_info anchor="bottom" id="Logcat" order="4" />
+      <window_info anchor="bottom" id="App Quality Insights" order="4" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Build" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="App Inspection" order="4" />
+      <window_info anchor="right" id="Device Explorer" order="0" side_tool="true" />
+      <window_info anchor="right" id="Device Manager 2" order="0" />
+      <window_info anchor="right" id="App Links Assistant" order="0" />
+      <window_info anchor="right" id="Gradle" order="0" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="Running Devices" order="0" side_tool="true" />
+      <unified_weights left="0.25026095" />
+    </layout>
+    <recentWindows>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="648" y="301" key="FileChooserDialogImpl" timestamp="1710841825408">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="648" y="301" key="FileChooserDialogImpl/0.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1710841825408" />
+    <state x="623" y="243" width="770" height="688" key="search.everywhere.popup" timestamp="1710841722968">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="243" width="770" height="688" key="search.everywhere.popup/0.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1710841722968" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="24" column="68" lean-forward="true" selection-start-line="24" selection-start-column="68" selection-end-line="24" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

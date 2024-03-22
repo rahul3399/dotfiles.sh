@@ -1,0 +1,23 @@
+: q!
+: q!
+: q
+: q!
+: q!
+: q!
+: q!
+! mkdir personal
+$ delete
+$ zh
+$ ls
+$ unzip
+: q!
+: q
+: help
+: shell
+: q
+$ unzip sso\ (1).zip 
+$ unzip
+$ unzip
+: q!
+: q
+: q!

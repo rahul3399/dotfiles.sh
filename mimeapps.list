@@ -1,0 +1,27 @@
+[Default Applications]
+text/x-shellscript=text.desktop;
+x-scheme-handler/magnet=torrent.desktop;
+application/x-bittorrent=torrent.desktop;
+x-scheme-handler/mailto=google-chrome.desktop
+text/plain=text.desktop;
+application/postscript=pdf.desktop;
+application/pdf=pdf.desktop;
+image/png=img.desktop;
+image/jpeg=img.desktop;
+image/gif=img.desktop;
+application/rss+xml=rss.desktop
+video/x-matroska=Alacritty.desktop
+x-scheme-handler/lbry=lbry.desktop
+inode/directory=file.desktop
+x-scheme-handler/https=firefox.desktop
+x-scheme-handler/http=firefox.desktop
+x-scheme-handler/postman=Postman.desktop
+x-scheme-handler/tg=org.telegram.desktop.desktop
+x-scheme-handler/msteams=teams.desktop
+x-scheme-handler/webcal=google-chrome.desktop
+
+[Added Associations]
+x-scheme-handler/tg=userapp-Telegram Desktop-OSEBU1.desktop;userapp-Telegram Desktop-MXX9W1.desktop;org.telegram.desktop.desktop;
+application/x-lz4=engrampa.desktop;
+application/x-php=nvim.desktop;
+video/x-matroska=vlc.desktop;feh.desktop;Alacritty.desktop;

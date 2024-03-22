@@ -1,0 +1,11 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/AndroidStudioProjects/MyApplication" value="true" />
+        <entry key="$USER_HOME$/miniorange/mo-mobile-apps/MiniOrangeDemo/DeliveryApp" value="true" />
+        <entry key="$USER_HOME$/miniorange/mo-mobile-apps/MiniOrangeDemo/demoSSO" value="true" />
+      </map>
+    </option>
+  </component>
+</application>

@@ -1,0 +1,175 @@
+[START][2024-01-02 11:42:51] LSP logging initiated
+[ERROR][2024-01-02 11:42:51] .../vim/lsp/rpc.lua:734	"rpc"	"/home/rahul/.local/share/nvim/mason/bin/lua-language-server"	"stderr"	"NMD, WSM `endLine > #rows` ?\nstack traceback:\n\tscript/text-merger.lua:72: in upvalue 'mergeRows'\n\tscript/text-merger.lua:106: in function 'text-merger'\n\tscript/provider/provider.lua:305: in function <script/provider/provider.lua:294>\n\t[C]: in function 'xpcall'\n\tscript/proto/proto.lua:203: in function <script/proto/proto.lua:178>\n"
+[START][2024-01-02 13:47:02] LSP logging initiated
+[ERROR][2024-01-02 13:47:02] .../vim/lsp/rpc.lua:734	"rpc"	"/home/rahul/.local/share/nvim/mason/bin/bash-language-server"	"stderr"	"(node:82818) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.\n(Use `node --trace-deprecation ...` to show where the warning was created)\n"
+[WARN][2024-01-02 13:47:03] ...lsp/handlers.lua:537	"08:17:03.201 WARNING ⛔️ ShellCheck: disabling linting as no executable was found at path 'shellcheck'"
+[START][2024-01-02 14:52:34] LSP logging initiated
+[ERROR][2024-01-02 14:52:34] .../vim/lsp/rpc.lua:734	"rpc"	"/home/rahul/.local/share/nvim/mason/bin/bash-language-server"	"stderr"	"(node:20880) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.\n(Use `node --trace-deprecation ...` to show where the warning was created)\n"
+[WARN][2024-01-02 14:52:34] ...lsp/handlers.lua:537	"09:22:34.921 WARNING ⛔️ ShellCheck: disabling linting as no executable was found at path 'shellcheck'"
+[START][2024-01-02 14:52:46] LSP logging initiated
+[ERROR][2024-01-02 14:52:46] .../vim/lsp/rpc.lua:734	"rpc"	"/home/rahul/.local/share/nvim/mason/bin/bash-language-server"	"stderr"	"(node:20984) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.\n(Use `node --trace-deprecation ...` to show where the warning was created)\n"
+[WARN][2024-01-02 14:52:46] ...lsp/handlers.lua:537	"09:22:46.736 WARNING ⛔️ ShellCheck: disabling linting as no executable was found at path 'shellcheck'"
+[START][2024-01-02 14:53:00] LSP logging initiated
+[ERROR][2024-01-02 14:53:00] .../vim/lsp/rpc.lua:734	"rpc"	"/home/rahul/.local/share/nvim/mason/bin/bash-language-server"	"stderr"	"(node:21089) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.\n(Use `node --trace-deprecation ...` to show where the warning was created)\n"
+[WARN][2024-01-02 14:53:01] ...lsp/handlers.lua:537	"09:23:01.256 WARNING ⛔️ ShellCheck: disabling linting as no executable was found at path 'shellcheck'"
+[START][2024-01-02 14:56:06] LSP logging initiated
+[ERROR][2024-01-02 14:56:06] .../vim/lsp/rpc.lua:734	"rpc"	"/home/rahul/.local/share/nvim/mason/bin/bash-language-server"	"stderr"	"(node:3099) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.\n(Use `node --trace-deprecation ...` to show where the warning was created)\n"
+[WARN][2024-01-02 14:56:06] ...lsp/handlers.lua:537	"09:26:06.771 WARNING ⛔️ ShellCheck: disabling linting as no executable was found at path 'shellcheck'"
+[START][2024-01-03 23:37:03] LSP logging initiated
+[ERROR][2024-01-03 23:37:03] .../vim/lsp/rpc.lua:734	"rpc"	"/home/rahul/.local/share/nvim/mason/bin/bash-language-server"	"stderr"	"(node:6200) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.\n(Use `node --trace-deprecation ...` to show where the warning was created)\n"
+[WARN][2024-01-03 23:37:04] ...lsp/handlers.lua:537	"18:07:04.012 WARNING ⛔️ Error while parsing file:///home/rahul/.config/nvm/nvm.sh: syntax error"
+[WARN][2024-01-03 23:37:04] ...lsp/handlers.lua:537	"18:07:04.030 WARNING ⛔️ Error while parsing file:///home/rahul/.config/nvm/install.sh: syntax error"
+[WARN][2024-01-03 23:37:04] ...lsp/handlers.lua:537	"18:07:04.073 WARNING ⛔️ Error while parsing file:///home/rahul/.config/nvm/nvm.sh: syntax error"
+[WARN][2024-01-03 23:37:04] ...lsp/handlers.lua:537	"18:07:04.528 WARNING ⛔️ ShellCheck: disabling linting as no executable was found at path 'shellcheck'"
+[START][2024-01-03 23:37:07] LSP logging initiated
+[ERROR][2024-01-03 23:37:07] .../vim/lsp/rpc.lua:734	"rpc"	"/home/rahul/.local/share/nvim/mason/bin/bash-language-server"	"stderr"	"(node:6274) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.\n(Use `node --trace-deprecation ...` to show where the warning was created)\n"
+[WARN][2024-01-03 23:37:08] ...lsp/handlers.lua:537	"18:07:08.126 WARNING ⛔️ Error while parsing file:///home/rahul/.config/nvm/nvm.sh: syntax error"
+[WARN][2024-01-03 23:37:08] ...lsp/handlers.lua:537	"18:07:08.145 WARNING ⛔️ Error while parsing file:///home/rahul/.config/nvm/install.sh: syntax error"
+[WARN][2024-01-03 23:37:08] ...lsp/handlers.lua:537	"18:07:08.188 WARNING ⛔️ Error while parsing file:///home/rahul/.config/nvm/nvm.sh: syntax error"
+[WARN][2024-01-03 23:37:08] ...lsp/handlers.lua:537	"18:07:08.644 WARNING ⛔️ ShellCheck: disabling linting as no executable was found at path 'shellcheck'"
+[WARN][2024-01-03 23:37:17] ...lsp/handlers.lua:537	"18:07:17.159 WARNING ⛔️ Error while parsing file:///home/rahul/.config/nvm/nvm.sh: syntax error"
+[WARN][2024-01-03 23:37:17] ...lsp/handlers.lua:537	"18:07:17.803 WARNING ⛔️ Error while parsing file:///home/rahul/.config/nvm/nvm.sh: syntax error"
+[START][2024-01-03 23:37:27] LSP logging initiated
+[ERROR][2024-01-03 23:37:27] .../vim/lsp/rpc.lua:734	"rpc"	"/home/rahul/.local/share/nvim/mason/bin/bash-language-server"	"stderr"	"(node:6412) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.\n(Use `node --trace-deprecation ...` to show where the warning was created)\n"
+[WARN][2024-01-03 23:37:27] ...lsp/handlers.lua:537	"18:07:27.352 WARNING ⛔️ Error while parsing file:///home/rahul/.config/nvm/nvm.sh: syntax error"
+[WARN][2024-01-03 23:37:27] ...lsp/handlers.lua:537	"18:07:27.370 WARNING ⛔️ Error while parsing file:///home/rahul/.config/nvm/install.sh: syntax error"
+[WARN][2024-01-03 23:37:27] ...lsp/handlers.lua:537	"18:07:27.415 WARNING ⛔️ Error while parsing file:///home/rahul/.config/nvm/nvm.sh: syntax error"
+[WARN][2024-01-03 23:37:27] ...lsp/handlers.lua:537	"18:07:27.863 WARNING ⛔️ ShellCheck: disabling linting as no executable was found at path 'shellcheck'"
+[WARN][2024-01-03 23:37:37] ...lsp/handlers.lua:537	"18:07:37.012 WARNING ⛔️ Error while parsing file:///home/rahul/.config/nvm/nvm.sh: syntax error"
+[WARN][2024-01-03 23:37:37] ...lsp/handlers.lua:537	"18:07:37.570 WARNING ⛔️ Error while parsing file:///home/rahul/.config/nvm/nvm.sh: syntax error"
+[WARN][2024-01-03 23:37:38] ...lsp/handlers.lua:537	"18:07:38.109 WARNING ⛔️ Error while parsing file:///home/rahul/.config/nvm/nvm.sh: syntax error"
+[WARN][2024-01-03 23:37:38] ...lsp/handlers.lua:537	"18:07:38.444 WARNING ⛔️ Error while parsing file:///home/rahul/.config/nvm/nvm.sh: syntax error"
+[START][2024-01-04 23:18:18] LSP logging initiated
+[WARN][2024-01-04 23:18:18] ...lsp/handlers.lua:537	"17:48:18.425 WARNING ⛔️ ShellCheck: disabling linting as no executable was found at path 'shellcheck'"
+[START][2024-01-04 23:19:18] LSP logging initiated
+[WARN][2024-01-04 23:19:18] ...lsp/handlers.lua:537	"17:49:18.552 WARNING ⛔️ ShellCheck: disabling linting as no executable was found at path 'shellcheck'"
+[START][2024-01-04 23:21:08] LSP logging initiated
+[WARN][2024-01-04 23:21:08] ...lsp/handlers.lua:537	"17:51:08.866 WARNING ⛔️ ShellCheck: disabling linting as no executable was found at path 'shellcheck'"
+[START][2024-01-04 23:22:01] LSP logging initiated
+[WARN][2024-01-04 23:22:01] ...lsp/handlers.lua:537	"17:52:01.816 WARNING ⛔️ ShellCheck: disabling linting as no executable was found at path 'shellcheck'"
+[START][2024-01-04 23:22:40] LSP logging initiated
+[WARN][2024-01-04 23:22:40] ...lsp/handlers.lua:537	"17:52:40.216 WARNING ⛔️ ShellCheck: disabling linting as no executable was found at path 'shellcheck'"
+[START][2024-01-04 23:22:51] LSP logging initiated
+[WARN][2024-01-04 23:22:51] ...lsp/handlers.lua:537	"17:52:51.373 WARNING ⛔️ ShellCheck: disabling linting as no executable was found at path 'shellcheck'"
+[WARN][2024-01-04 23:24:47] ...lsp/handlers.lua:537	"17:54:47.381 WARNING ⛔️ Error while parsing file:///home/rahul/.local/bin/statusbar/sb-battery: syntax error"
+[START][2024-01-04 23:25:08] LSP logging initiated
+[WARN][2024-01-04 23:25:08] ...lsp/handlers.lua:537	"17:55:08.882 WARNING ⛔️ ShellCheck: disabling linting as no executable was found at path 'shellcheck'"
+[START][2024-01-04 23:25:16] LSP logging initiated
+[WARN][2024-01-04 23:25:16] ...lsp/handlers.lua:537	"17:55:16.935 WARNING ⛔️ ShellCheck: disabling linting as no executable was found at path 'shellcheck'"
+[START][2024-01-07 21:02:54] LSP logging initiated
+[WARN][2024-01-07 21:02:54] ...lsp/handlers.lua:137	"The language server html triggers a registerCapability handler despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[ERROR][2024-01-07 21:02:55] ...lsp/handlers.lua:535	"Error while validating file:///home/rahul/works/gits/mattermost/templates/cloud_45_day_arrears.html: Cannot read properties of null (reading 'validProperties')\nTypeError: Cannot read properties of null (reading 'validProperties')\n    at LintConfigurationSettings.getSetting (/home/rahul/.local/share/nvim/mason/packages/html-lsp/node_modules/vscode-langservers-extracted/node_modules/vscode-css-languageservice/lib/umd/services/lintRules.js:78:29)\n    at new LintVisitor (/home/rahul/.local/share/nvim/mason/packages/html-lsp/node_modules/vscode-langservers-extracted/node_modules/vscode-css-languageservice/lib/umd/services/lint.js:53:41)\n    at LintVisitor.entries (/home/rahul/.local/share/nvim/mason/packages/html-lsp/node_modules/vscode-langservers-extracted/node_modules/vscode-css-languageservice/lib/umd/services/lint.js:41:29)\n    at CSSValidation.doValidation (/home/rahul/.local/share/nvim/mason/packages/html-lsp/node_modules/vscode-langservers-extracted/node_modules/vscode-css-languageservice/lib/umd/services/cssValidation.js:34:60)\n    at _callee$ (/home/rahul/.local/share/nvim/mason/packages/html-lsp/node_modules/vscode-langservers-extracted/lib/html-language-server/modes/cssMode.js:53:69)\n    at tryCatch (/home/rahul/.local/share/nvim/mason/packages/html-lsp/node_modules/vscode-langservers-extracted/node_modules/regenerator-runtime/runtime.js:64:40)\n    at Generator.invoke (/home/rahul/.local/share/nvim/mason/packages/html-lsp/node_modules/vscode-langservers-extracted/node_modules/regenerator-runtime/runtime.js:299:22)\n    at Generator.next (/home/rahul/.local/share/nvim/mason/packages/html-lsp/node_modules/vscode-langservers-extracted/node_modules/regenerator-runtime/runtime.js:124:21)\n    at asyncGeneratorStep (/home/rahul/.local/share/nvim/mason/packages/html-lsp/node_modules/vscode-langservers-extracted/lib/html-language-server/modes/cssMode.js:17:103)\n    at _next (/home/rahul/.local/share/nvim/mason/packages/html-lsp/node_modules/vscode-langservers-extracted/lib/html-language-server/modes/cssMode.js:19:194)"
+[START][2024-01-08 17:46:29] LSP logging initiated
+[WARN][2024-01-08 17:46:29] ...lsp/handlers.lua:537	"12:16:29.926 WARNING ⛔️ ShellCheck: disabling linting as no executable was found at path 'shellcheck'"
+[START][2024-01-08 17:46:52] LSP logging initiated
+[WARN][2024-01-08 17:46:52] ...lsp/handlers.lua:537	"12:16:52.973 WARNING ⛔️ ShellCheck: disabling linting as no executable was found at path 'shellcheck'"
+[START][2024-01-08 17:47:13] LSP logging initiated
+[WARN][2024-01-08 17:47:13] ...lsp/handlers.lua:537	"12:17:13.944 WARNING ⛔️ ShellCheck: disabling linting as no executable was found at path 'shellcheck'"
+[START][2024-01-14 21:52:37] LSP logging initiated
+[WARN][2024-01-14 21:52:37] ...lsp/handlers.lua:537	"16:22:37.198 WARNING ⛔️ ShellCheck: disabling linting as no executable was found at path 'shellcheck'"
+[START][2024-01-16 12:32:58] LSP logging initiated
+[WARN][2024-01-16 12:32:58] ...lsp/handlers.lua:537	"07:02:58.966 WARNING ⛔️ file:///home/rahul/miniorange/mo-idp-server-3.7/bin/catalina.sh line 164: non-constant source not supported"
+[WARN][2024-01-16 12:32:58] ...lsp/handlers.lua:537	"07:02:58.967 WARNING ⛔️ file:///home/rahul/miniorange/mo-idp-server-3.7/bin/catalina.sh line 166: non-constant source not supported"
+[WARN][2024-01-16 12:32:58] ...lsp/handlers.lua:537	"07:02:58.967 WARNING ⛔️ file:///home/rahul/miniorange/mo-idp-server-3.7/bin/catalina.sh line 210: non-constant source not supported"
+[WARN][2024-01-16 12:32:58] ...lsp/handlers.lua:537	"07:02:58.967 WARNING ⛔️ file:///home/rahul/miniorange/mo-idp-server-3.7/bin/catalina.sh line 213: non-constant source not supported"
+[WARN][2024-01-16 12:32:58] ...lsp/handlers.lua:537	"07:02:58.967 WARNING ⛔️ Error while parsing file:///home/rahul/miniorange/mo-idp-server-3.7/bin/catalina.sh: syntax error"
+[WARN][2024-01-16 12:32:59] ...lsp/handlers.lua:537	"07:02:59.486 WARNING ⛔️ ShellCheck: disabling linting as no executable was found at path 'shellcheck'"
+[WARN][2024-01-16 12:33:05] ...lsp/handlers.lua:537	"07:03:05.956 WARNING ⛔️ file:///home/rahul/miniorange/mo-idp-server-3.7/bin/catalina.sh line 164: non-constant source not supported"
+[WARN][2024-01-16 12:33:05] ...lsp/handlers.lua:537	"07:03:05.956 WARNING ⛔️ file:///home/rahul/miniorange/mo-idp-server-3.7/bin/catalina.sh line 166: non-constant source not supported"
+[WARN][2024-01-16 12:33:05] ...lsp/handlers.lua:537	"07:03:05.956 WARNING ⛔️ file:///home/rahul/miniorange/mo-idp-server-3.7/bin/catalina.sh line 210: non-constant source not supported"
+[WARN][2024-01-16 12:33:05] ...lsp/handlers.lua:537	"07:03:05.956 WARNING ⛔️ file:///home/rahul/miniorange/mo-idp-server-3.7/bin/catalina.sh line 213: non-constant source not supported"
+[WARN][2024-01-16 12:33:05] ...lsp/handlers.lua:537	"07:03:05.956 WARNING ⛔️ Error while parsing file:///home/rahul/miniorange/mo-idp-server-3.7/bin/catalina.sh: syntax error"
+[WARN][2024-01-16 12:33:06] ...lsp/handlers.lua:537	"07:03:06.668 WARNING ⛔️ file:///home/rahul/miniorange/mo-idp-server-3.7/bin/catalina.sh line 164: non-constant source not supported"
+[WARN][2024-01-16 12:33:06] ...lsp/handlers.lua:537	"07:03:06.668 WARNING ⛔️ file:///home/rahul/miniorange/mo-idp-server-3.7/bin/catalina.sh line 166: non-constant source not supported"
+[WARN][2024-01-16 12:33:06] ...lsp/handlers.lua:537	"07:03:06.668 WARNING ⛔️ file:///home/rahul/miniorange/mo-idp-server-3.7/bin/catalina.sh line 210: non-constant source not supported"
+[WARN][2024-01-16 12:33:06] ...lsp/handlers.lua:537	"07:03:06.668 WARNING ⛔️ file:///home/rahul/miniorange/mo-idp-server-3.7/bin/catalina.sh line 213: non-constant source not supported"
+[WARN][2024-01-16 12:33:06] ...lsp/handlers.lua:537	"07:03:06.668 WARNING ⛔️ Error while parsing file:///home/rahul/miniorange/mo-idp-server-3.7/bin/catalina.sh: syntax error"
+[WARN][2024-01-16 12:33:06] ...lsp/handlers.lua:537	"07:03:06.828 WARNING ⛔️ file:///home/rahul/miniorange/mo-idp-server-3.7/bin/catalina.sh line 164: non-constant source not supported"
+[WARN][2024-01-16 12:33:06] ...lsp/handlers.lua:537	"07:03:06.828 WARNING ⛔️ file:///home/rahul/miniorange/mo-idp-server-3.7/bin/catalina.sh line 166: non-constant source not supported"
+[WARN][2024-01-16 12:33:06] ...lsp/handlers.lua:537	"07:03:06.828 WARNING ⛔️ file:///home/rahul/miniorange/mo-idp-server-3.7/bin/catalina.sh line 210: non-constant source not supported"
+[WARN][2024-01-16 12:33:06] ...lsp/handlers.lua:537	"07:03:06.828 WARNING ⛔️ file:///home/rahul/miniorange/mo-idp-server-3.7/bin/catalina.sh line 213: non-constant source not supported"
+[WARN][2024-01-16 12:33:06] ...lsp/handlers.lua:537	"07:03:06.828 WARNING ⛔️ Error while parsing file:///home/rahul/miniorange/mo-idp-server-3.7/bin/catalina.sh: syntax error"
+[WARN][2024-01-16 12:33:06] ...lsp/handlers.lua:537	"07:03:06.974 WARNING ⛔️ file:///home/rahul/miniorange/mo-idp-server-3.7/bin/catalina.sh line 164: non-constant source not supported"
+[WARN][2024-01-16 12:33:06] ...lsp/handlers.lua:537	"07:03:06.974 WARNING ⛔️ file:///home/rahul/miniorange/mo-idp-server-3.7/bin/catalina.sh line 166: non-constant source not supported"
+[WARN][2024-01-16 12:33:06] ...lsp/handlers.lua:537	"07:03:06.974 WARNING ⛔️ file:///home/rahul/miniorange/mo-idp-server-3.7/bin/catalina.sh line 210: non-constant source not supported"
+[WARN][2024-01-16 12:33:06] ...lsp/handlers.lua:537	"07:03:06.974 WARNING ⛔️ file:///home/rahul/miniorange/mo-idp-server-3.7/bin/catalina.sh line 213: non-constant source not supported"
+[WARN][2024-01-16 12:33:06] ...lsp/handlers.lua:537	"07:03:06.974 WARNING ⛔️ Error while parsing file:///home/rahul/miniorange/mo-idp-server-3.7/bin/catalina.sh: syntax error"
+[WARN][2024-01-16 12:33:07] ...lsp/handlers.lua:537	"07:03:07.132 WARNING ⛔️ file:///home/rahul/miniorange/mo-idp-server-3.7/bin/catalina.sh line 164: non-constant source not supported"
+[WARN][2024-01-16 12:33:07] ...lsp/handlers.lua:537	"07:03:07.132 WARNING ⛔️ file:///home/rahul/miniorange/mo-idp-server-3.7/bin/catalina.sh line 166: non-constant source not supported"
+[WARN][2024-01-16 12:33:07] ...lsp/handlers.lua:537	"07:03:07.132 WARNING ⛔️ file:///home/rahul/miniorange/mo-idp-server-3.7/bin/catalina.sh line 210: non-constant source not supported"
+[WARN][2024-01-16 12:33:07] ...lsp/handlers.lua:537	"07:03:07.132 WARNING ⛔️ file:///home/rahul/miniorange/mo-idp-server-3.7/bin/catalina.sh line 213: non-constant source not supported"
+[WARN][2024-01-16 12:33:07] ...lsp/handlers.lua:537	"07:03:07.132 WARNING ⛔️ Error while parsing file:///home/rahul/miniorange/mo-idp-server-3.7/bin/catalina.sh: syntax error"
+[WARN][2024-01-16 12:33:07] ...lsp/handlers.lua:537	"07:03:07.277 WARNING ⛔️ file:///home/rahul/miniorange/mo-idp-server-3.7/bin/catalina.sh line 164: non-constant source not supported"
+[WARN][2024-01-16 12:33:07] ...lsp/handlers.lua:537	"07:03:07.277 WARNING ⛔️ file:///home/rahul/miniorange/mo-idp-server-3.7/bin/catalina.sh line 166: non-constant source not supported"
+[WARN][2024-01-16 12:33:07] ...lsp/handlers.lua:537	"07:03:07.277 WARNING ⛔️ file:///home/rahul/miniorange/mo-idp-server-3.7/bin/catalina.sh line 210: non-constant source not supported"
+[WARN][2024-01-16 12:33:07] ...lsp/handlers.lua:537	"07:03:07.277 WARNING ⛔️ file:///home/rahul/miniorange/mo-idp-server-3.7/bin/catalina.sh line 213: non-constant source not supported"
+[WARN][2024-01-16 12:33:07] ...lsp/handlers.lua:537	"07:03:07.277 WARNING ⛔️ Error while parsing file:///home/rahul/miniorange/mo-idp-server-3.7/bin/catalina.sh: syntax error"
+[WARN][2024-01-16 12:33:07] ...lsp/handlers.lua:537	"07:03:07.425 WARNING ⛔️ file:///home/rahul/miniorange/mo-idp-server-3.7/bin/catalina.sh line 164: non-constant source not supported"
+[WARN][2024-01-16 12:33:07] ...lsp/handlers.lua:537	"07:03:07.425 WARNING ⛔️ file:///home/rahul/miniorange/mo-idp-server-3.7/bin/catalina.sh line 166: non-constant source not supported"
+[WARN][2024-01-16 12:33:07] ...lsp/handlers.lua:537	"07:03:07.425 WARNING ⛔️ file:///home/rahul/miniorange/mo-idp-server-3.7/bin/catalina.sh line 210: non-constant source not supported"
+[WARN][2024-01-16 12:33:07] ...lsp/handlers.lua:537	"07:03:07.425 WARNING ⛔️ file:///home/rahul/miniorange/mo-idp-server-3.7/bin/catalina.sh line 213: non-constant source not supported"
+[WARN][2024-01-16 12:33:07] ...lsp/handlers.lua:537	"07:03:07.425 WARNING ⛔️ Error while parsing file:///home/rahul/miniorange/mo-idp-server-3.7/bin/catalina.sh: syntax error"
+[WARN][2024-01-16 12:33:07] ...lsp/handlers.lua:537	"07:03:07.567 WARNING ⛔️ file:///home/rahul/miniorange/mo-idp-server-3.7/bin/catalina.sh line 164: non-constant source not supported"
+[WARN][2024-01-16 12:33:07] ...lsp/handlers.lua:537	"07:03:07.567 WARNING ⛔️ file:///home/rahul/miniorange/mo-idp-server-3.7/bin/catalina.sh line 166: non-constant source not supported"
+[WARN][2024-01-16 12:33:07] ...lsp/handlers.lua:537	"07:03:07.567 WARNING ⛔️ file:///home/rahul/miniorange/mo-idp-server-3.7/bin/catalina.sh line 210: non-constant source not supported"
+[WARN][2024-01-16 12:33:07] ...lsp/handlers.lua:537	"07:03:07.567 WARNING ⛔️ file:///home/rahul/miniorange/mo-idp-server-3.7/bin/catalina.sh line 213: non-constant source not supported"
+[WARN][2024-01-16 12:33:07] ...lsp/handlers.lua:537	"07:03:07.567 WARNING ⛔️ Error while parsing file:///home/rahul/miniorange/mo-idp-server-3.7/bin/catalina.sh: syntax error"
+[WARN][2024-01-16 12:33:11] ...lsp/handlers.lua:537	"07:03:11.588 WARNING ⛔️ file:///home/rahul/miniorange/mo-idp-server-3.7/bin/catalina.sh line 164: non-constant source not supported"
+[WARN][2024-01-16 12:33:11] ...lsp/handlers.lua:537	"07:03:11.588 WARNING ⛔️ file:///home/rahul/miniorange/mo-idp-server-3.7/bin/catalina.sh line 166: non-constant source not supported"
+[WARN][2024-01-16 12:33:11] ...lsp/handlers.lua:537	"07:03:11.588 WARNING ⛔️ file:///home/rahul/miniorange/mo-idp-server-3.7/bin/catalina.sh line 210: non-constant source not supported"
+[WARN][2024-01-16 12:33:11] ...lsp/handlers.lua:537	"07:03:11.588 WARNING ⛔️ file:///home/rahul/miniorange/mo-idp-server-3.7/bin/catalina.sh line 213: non-constant source not supported"
+[WARN][2024-01-16 12:33:11] ...lsp/handlers.lua:537	"07:03:11.588 WARNING ⛔️ Error while parsing file:///home/rahul/miniorange/mo-idp-server-3.7/bin/catalina.sh: syntax error"
+[WARN][2024-01-16 12:33:11] ...lsp/handlers.lua:537	"07:03:11.744 WARNING ⛔️ file:///home/rahul/miniorange/mo-idp-server-3.7/bin/catalina.sh line 164: non-constant source not supported"
+[WARN][2024-01-16 12:33:11] ...lsp/handlers.lua:537	"07:03:11.744 WARNING ⛔️ file:///home/rahul/miniorange/mo-idp-server-3.7/bin/catalina.sh line 166: non-constant source not supported"
+[WARN][2024-01-16 12:33:11] ...lsp/handlers.lua:537	"07:03:11.744 WARNING ⛔️ file:///home/rahul/miniorange/mo-idp-server-3.7/bin/catalina.sh line 210: non-constant source not supported"
+[WARN][2024-01-16 12:33:11] ...lsp/handlers.lua:537	"07:03:11.744 WARNING ⛔️ file:///home/rahul/miniorange/mo-idp-server-3.7/bin/catalina.sh line 213: non-constant source not supported"
+[WARN][2024-01-16 12:33:11] ...lsp/handlers.lua:537	"07:03:11.744 WARNING ⛔️ Error while parsing file:///home/rahul/miniorange/mo-idp-server-3.7/bin/catalina.sh: syntax error"
+[START][2024-01-18 16:28:54] LSP logging initiated
+[WARN][2024-01-18 16:28:54] ...lsp/handlers.lua:537	"10:58:54.261 WARNING ⛔️ ShellCheck: disabling linting as no executable was found at path 'shellcheck'"
+[START][2024-01-18 16:29:11] LSP logging initiated
+[WARN][2024-01-18 16:29:11] ...lsp/handlers.lua:537	"10:59:11.045 WARNING ⛔️ ShellCheck: disabling linting as no executable was found at path 'shellcheck'"
+[START][2024-01-19 14:15:55] LSP logging initiated
+[WARN][2024-01-19 14:15:55] ...lsp/handlers.lua:537	"08:45:55.714 WARNING ⛔️ file:///etc/profile line 24: non-constant source not supported"
+[WARN][2024-01-19 14:15:56] ...lsp/handlers.lua:537	"08:45:56.233 WARNING ⛔️ ShellCheck: disabling linting as no executable was found at path 'shellcheck'"
+[START][2024-01-22 12:59:19] LSP logging initiated
+[WARN][2024-01-22 12:59:19] ...lsp/handlers.lua:537	"07:29:19.940 WARNING ⛔️ ShellCheck: disabling linting as no executable was found at path 'shellcheck'"
+[START][2024-01-22 15:18:00] LSP logging initiated
+[WARN][2024-01-22 15:18:00] ...lsp/handlers.lua:537	"09:48:00.749 WARNING ⛔️ ShellCheck: disabling linting as no executable was found at path 'shellcheck'"
+[START][2024-02-09 01:27:36] LSP logging initiated
+[WARN][2024-02-09 01:27:36] ...lsp/handlers.lua:537	"19:57:36.657 WARNING ⛔️ ShellCheck: disabling linting as no executable was found at path 'shellcheck'"
+[START][2024-02-09 01:28:00] LSP logging initiated
+[WARN][2024-02-09 01:28:00] ...lsp/handlers.lua:537	"19:58:00.435 WARNING ⛔️ ShellCheck: disabling linting as no executable was found at path 'shellcheck'"
+[START][2024-02-09 01:28:02] LSP logging initiated
+[WARN][2024-02-09 01:28:02] ...lsp/handlers.lua:537	"19:58:02.631 WARNING ⛔️ ShellCheck: disabling linting as no executable was found at path 'shellcheck'"
+[START][2024-02-09 01:28:05] LSP logging initiated
+[WARN][2024-02-09 01:28:05] ...lsp/handlers.lua:537	"19:58:05.452 WARNING ⛔️ ShellCheck: disabling linting as no executable was found at path 'shellcheck'"
+[START][2024-02-09 01:37:37] LSP logging initiated
+[WARN][2024-02-09 01:37:37] ...lsp/handlers.lua:537	"20:07:37.537 WARNING ⛔️ ShellCheck: disabling linting as no executable was found at path 'shellcheck'"
+[START][2024-02-09 01:37:53] LSP logging initiated
+[WARN][2024-02-09 01:37:53] ...lsp/handlers.lua:537	"20:07:53.732 WARNING ⛔️ ShellCheck: disabling linting as no executable was found at path 'shellcheck'"
+[START][2024-02-09 01:37:59] LSP logging initiated
+[WARN][2024-02-09 01:37:59] ...lsp/handlers.lua:537	"20:07:59.903 WARNING ⛔️ ShellCheck: disabling linting as no executable was found at path 'shellcheck'"
+[WARN][2024-02-09 01:40:24] ...lsp/handlers.lua:537	"20:10:24.153 WARNING ⛔️ Error while parsing file:///home/rahul/.local/bin/statusbar/sb-weather: syntax error"
+[WARN][2024-02-09 01:40:24] ...lsp/handlers.lua:537	"20:10:24.798 WARNING ⛔️ Error while parsing file:///home/rahul/.local/bin/statusbar/sb-weather: syntax error"
+[WARN][2024-02-09 01:40:24] ...lsp/handlers.lua:537	"20:10:24.943 WARNING ⛔️ Error while parsing file:///home/rahul/.local/bin/statusbar/sb-weather: syntax error"
+[WARN][2024-02-09 01:40:25] ...lsp/handlers.lua:537	"20:10:25.097 WARNING ⛔️ Error while parsing file:///home/rahul/.local/bin/statusbar/sb-weather: syntax error"
+[WARN][2024-02-09 01:40:25] ...lsp/handlers.lua:537	"20:10:25.248 WARNING ⛔️ Error while parsing file:///home/rahul/.local/bin/statusbar/sb-weather: syntax error"
+[WARN][2024-02-09 01:40:25] ...lsp/handlers.lua:537	"20:10:25.397 WARNING ⛔️ Error while parsing file:///home/rahul/.local/bin/statusbar/sb-weather: syntax error"
+[WARN][2024-02-09 01:40:25] ...lsp/handlers.lua:537	"20:10:25.438 WARNING ⛔️ Error while parsing file:///home/rahul/.local/bin/statusbar/sb-weather: syntax error"
+[START][2024-02-09 01:40:37] LSP logging initiated
+[WARN][2024-02-09 01:40:37] ...lsp/handlers.lua:537	"20:10:37.894 WARNING ⛔️ ShellCheck: disabling linting as no executable was found at path 'shellcheck'"
+[START][2024-02-13 11:25:28] LSP logging initiated
+[WARN][2024-02-13 11:25:28] ...lsp/handlers.lua:537	"05:55:28.700 WARNING ⛔️ ShellCheck: disabling linting as no executable was found at path 'shellcheck'"
+[START][2024-03-07 13:19:34] LSP logging initiated
+[WARN][2024-03-07 13:19:34] ...lsp/handlers.lua:137	"The language server html triggers a registerCapability handler despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[START][2024-03-18 15:28:22] LSP logging initiated
+[ERROR][2024-03-18 15:28:22] .../vim/lsp/rpc.lua:734	"rpc"	"/home/rahul/.local/share/nvim/mason/bin/phpactor"	"stderr"	"PHP Warning:  PHP Startup: Unable to load dynamic library 'pgsql' (tried: /usr/lib/php/modules/pgsql (/usr/lib/php/modules/pgsql: cannot open shared object file: No such file or directory), /usr/lib/php/modules/pgsql.so (/usr/lib/php/modules/pgsql.so: cannot open shared object file: No such file or directory)) in Unknown on line 0\n"
+[ERROR][2024-03-18 15:28:22] .../vim/lsp/rpc.lua:734	"rpc"	"/home/rahul/.local/share/nvim/mason/bin/phpactor"	"stderr"	"Starting language server, use -vvv for verbose output\n"
+[START][2024-03-21 12:54:39] LSP logging initiated
+[WARN][2024-03-21 12:54:39] ...lsp/handlers.lua:137	"The language server html triggers a registerCapability handler despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[START][2024-03-21 12:56:26] LSP logging initiated
+[WARN][2024-03-21 12:56:26] ...lsp/handlers.lua:137	"The language server html triggers a registerCapability handler despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[START][2024-03-22 11:30:44] LSP logging initiated
+[ERROR][2024-03-22 11:30:44] .../vim/lsp/rpc.lua:734	"rpc"	"/home/rahul/.local/share/nvim/mason/bin/phpactor"	"stderr"	"PHP Warning:  PHP Startup: Unable to load dynamic library 'pgsql' (tried: /usr/lib/php/modules/pgsql (/usr/lib/php/modules/pgsql: cannot open shared object file: No such file or directory), /usr/lib/php/modules/pgsql.so (/usr/lib/php/modules/pgsql.so: cannot open shared object file: No such file or directory)) in Unknown on line 0\n"
+[ERROR][2024-03-22 11:30:44] .../vim/lsp/rpc.lua:734	"rpc"	"/home/rahul/.local/share/nvim/mason/bin/phpactor"	"stderr"	"Starting language server, use -vvv for verbose output\n"
+[ERROR][2024-03-22 11:30:48] .../vim/lsp/rpc.lua:734	"rpc"	"/home/rahul/.local/share/nvim/mason/bin/phpactor"	"stderr"	'PHP Warning:  Attempt to read property "title" on null in /home/rahul/.local/share/nvim/mason/packages/phpactor/lib/Extension/LanguageServerConfiguration/Listener/AutoConfigListener.php on line 47\nWarning: Attempt to read property "title" on null in /home/rahul/.local/share/nvim/mason/packages/phpactor/lib/Extension/LanguageServerConfiguration/Listener/AutoConfigListener.php on line 47\n'

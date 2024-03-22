@@ -1,0 +1,463 @@
+property '347' doesn't exist, you need to specify its type and format
+error 9: BadDrawable (invalid Pixmap or Window parameter) request 143 minor 1 serial 238
+error 3: BadWindow (invalid Window parameter) request 129 minor 6 serial 239
+error 3: BadWindow (invalid Window parameter) request 20 minor 0 serial 240
+error 3: BadWindow (invalid Window parameter) request 15 minor 0 serial 241
+error 3: BadWindow (invalid Window parameter) request 2 minor 0 serial 242
+error 3: BadWindow (invalid Window parameter) request 20 minor 0 serial 243
+error 3: BadWindow (invalid Window parameter) request 2 minor 0 serial 244
+error 3: BadWindow (invalid Window parameter) request 20 minor 0 serial 245
+/bin/sh: line 1: /usr/lib/geoclue-2.0/demos/agent: No such file or directory
+/bin/sh: line 1: blueman-applet: command not found
+/bin/sh: line 1: /home/nachiket/.local/bin/showkeys: No such file or directory
+xprop: -id requires an argument
+
+usage:  xprop [-options ...] [[format [dformat]] atom] ...
+
+where options include:
+    -help                          print out a summary of command line options
+    -grammar                       print out full grammar for command line
+    -display host:dpy              the X server to contact
+    -id id                         resource id of window to examine
+    -name name                     name of window to examine
+    -font name                     name of font to examine
+    -remove propname               remove a property
+    -set propname value            set a property to a given value
+    -root                          examine the root window
+    -len n                         display at most n bytes of any property
+    -notype                        do not display the type field
+    -fs filename                   where to look for formats for properties
+    -frame                         don't ignore window manager frames
+    -f propname format [dformat]   formats to use for property of given name
+    -spy                           examine window properties forever
+    -version                       print program version
+
+[libi3] ERROR: Could not parse color: #fff
+awk: cmd. line:2: (FILENAME=- FNR=1) fatal: division by zero attempted
+awk: cmd. line:2: (FILENAME=- FNR=2) fatal: division by zero attempted
+awk: cmd. line:2: (FILENAME=- FNR=3) fatal: division by zero attempted
+awk: cmd. line:2: (FILENAME=- FNR=4) fatal: division by zero attempted
+awk: cmd. line:2: (FILENAME=- FNR=5) fatal: division by zero attempted
+awk: cmd. line:2: (FILENAME=- FNR=6) fatal: division by zero attempted
+awk: cmd. line:2: (FILENAME=- FNR=7) fatal: division by zero attempted
+awk: cmd. line:2: (FILENAME=- FNR=8) fatal: division by zero attempted
+/home/rahul/.local/bin/statusbar/sb-brightness: line 13: printf: 20.0//1000: invalid number
+Cannot retrieve speedtest configuration
+ERROR: <urlopen error [Errno -3] Temporary failure in name resolution>
+[1407:1435:0322/111622.052431:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+[1407:1435:0322/111622.052725:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+WARNING: Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#141 is a dynamic-sized tensor).
+WARNING: No icon found in path: 'nm-signal-50'
+[1407:1407:0322/111630.640546:ERROR:CONSOLE(37)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: https://ogs.google.com/u/0/widget/app?awwd=1&gm3=1&origin=chrome-untrusted%3A%2F%2Fnew-tab-page&origin=chrome%3A%2F%2Fnew-tab-page&cn=app&pid=1&spid=243&hl=en&dm= (37)
+[1407:1407:0322/111630.640567:ERROR:CONSOLE(37)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: https://ogs.google.com/u/0/widget/app?awwd=1&gm3=1&origin=chrome-untrusted%3A%2F%2Fnew-tab-page&origin=chrome%3A%2F%2Fnew-tab-page&cn=app&pid=1&spid=243&hl=en&dm= (37)
+[1407:1407:0322/111630.640577:ERROR:CONSOLE(37)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: https://ogs.google.com/u/0/widget/app?awwd=1&gm3=1&origin=chrome-untrusted%3A%2F%2Fnew-tab-page&origin=chrome%3A%2F%2Fnew-tab-page&cn=app&pid=1&spid=243&hl=en&dm= (37)
+[1407:1407:0322/111630.640584:ERROR:CONSOLE(37)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: https://ogs.google.com/u/0/widget/app?awwd=1&gm3=1&origin=chrome-untrusted%3A%2F%2Fnew-tab-page&origin=chrome%3A%2F%2Fnew-tab-page&cn=app&pid=1&spid=243&hl=en&dm= (37)
+CRITICAL: Source ID 25 was not found when attempting to remove it
+CRITICAL: Source ID 28 was not found when attempting to remove it
+CRITICAL: Source ID 35 was not found when attempting to remove it
+[1407:1435:0322/111958.140612:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+WARNING: No icon found in path: 'nm-signal-100'
+
+(process:12130): GLib-CRITICAL **: 11:20:55.878: g_string_insert_len: assertion 'len == 0 || val != NULL' failed
+(node:12238) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `upwork --trace-deprecation ...` to show where the warning was created)
+[12296:0322/112056.443445:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+[12238:0322/112058.224856:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/112058.224890:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/112058.224915:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/112058.224934:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/112058.224959:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/112058.225010:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/112058.225028:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/112058.373111:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/112058.373145:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/112058.373164:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/112058.373182:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/112058.373203:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/112058.373249:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/112058.373269:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/112058.552783:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/112058.552811:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/112058.552833:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/112058.552851:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/112058.552874:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/112058.552927:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/112058.552945:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/112059.607336:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/112059.607381:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/112059.607401:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/112059.607418:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/112059.607439:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/112059.607486:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/112059.607508:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/112059.768314:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/112059.768352:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/112059.768378:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/112059.768403:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/112059.768443:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/112059.768526:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/112059.768556:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/112059.980312:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/112059.980357:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/112059.980387:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/112059.980409:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/112059.980442:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/112059.980492:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/112059.980511:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/112102.380243:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/112102.380298:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/112102.380341:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/112102.380398:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/112102.380447:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/112102.380546:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/112102.380592:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/112103.774247:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/112103.774281:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/112103.774310:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/112103.774330:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/112103.774353:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/112103.774406:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/112103.774425:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/112249.759354:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/112249.759404:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/112249.759422:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/112249.759438:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/112249.759461:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/112249.759505:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/112249.759523:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(process:17246): GLib-CRITICAL **: 11:23:03.852: g_string_insert_len: assertion 'len == 0 || val != NULL' failed
+(electron) Sending uncompressed crash reports is deprecated and will be removed in a future version of Electron. Set { compress: true } to opt-in to the new behavior. Crash reports will be uploaded gzipped, which most crash reporting servers support.
+[17295:0322/112304.559112:ERROR:browser_main_loop.cc(276)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[17295:0322/112304.559429:ERROR:browser_main_loop.cc(276)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+Error occurred in handler for 'GET_MEDIA_ACCESS_STATUS': TypeError: te.systemPreferences.getMediaAccessStatus is not a function
+    at /usr/lib/slack/resources/app.asar/dist/main.bundle.js:197:43210
+    at Sc (/usr/lib/slack/resources/app.asar/dist/main.bundle.js:107:6156)
+    at /usr/lib/slack/resources/app.asar/dist/main.bundle.js:107:6877
+    at WebContents.<anonymous> (node:electron/js2c/browser_init:2:77758)
+    at WebContents.emit (node:events:517:28)
+    at WebContents.emit (node:domain:489:12)
+    at t.emit (/usr/lib/slack/resources/app.asar/dist/main.bundle.js:81:10596)
+Error occurred in handler for 'GET_MEDIA_ACCESS_STATUS': TypeError: te.systemPreferences.getMediaAccessStatus is not a function
+    at /usr/lib/slack/resources/app.asar/dist/main.bundle.js:197:43210
+    at Sc (/usr/lib/slack/resources/app.asar/dist/main.bundle.js:107:6156)
+    at /usr/lib/slack/resources/app.asar/dist/main.bundle.js:107:6877
+    at WebContents.<anonymous> (node:electron/js2c/browser_init:2:77758)
+    at WebContents.emit (node:events:517:28)
+    at WebContents.emit (node:domain:489:12)
+    at t.emit (/usr/lib/slack/resources/app.asar/dist/main.bundle.js:81:10596)
+Error occurred in handler for 'GET_MEDIA_ACCESS_STATUS': TypeError: te.systemPreferences.getMediaAccessStatus is not a function
+    at /usr/lib/slack/resources/app.asar/dist/main.bundle.js:197:43210
+    at Sc (/usr/lib/slack/resources/app.asar/dist/main.bundle.js:107:6156)
+    at /usr/lib/slack/resources/app.asar/dist/main.bundle.js:107:6877
+    at WebContents.<anonymous> (node:electron/js2c/browser_init:2:77758)
+    at WebContents.emit (node:events:517:28)
+    at WebContents.emit (node:domain:489:12)
+    at t.emit (/usr/lib/slack/resources/app.asar/dist/main.bundle.js:81:10596)
+CRITICAL: Source ID 41 was not found when attempting to remove it
+[1407:1407:0322/112816.968551:ERROR:CONSOLE(37)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: https://ogs.google.com/u/0/widget/app?awwd=1&gm3=1&origin=chrome-untrusted%3A%2F%2Fnew-tab-page&origin=chrome%3A%2F%2Fnew-tab-page&cn=app&pid=1&spid=243&hl=en&dm= (37)
+[1407:1407:0322/112816.968591:ERROR:CONSOLE(37)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: https://ogs.google.com/u/0/widget/app?awwd=1&gm3=1&origin=chrome-untrusted%3A%2F%2Fnew-tab-page&origin=chrome%3A%2F%2Fnew-tab-page&cn=app&pid=1&spid=243&hl=en&dm= (37)
+[1407:1407:0322/112816.968603:ERROR:CONSOLE(37)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: https://ogs.google.com/u/0/widget/app?awwd=1&gm3=1&origin=chrome-untrusted%3A%2F%2Fnew-tab-page&origin=chrome%3A%2F%2Fnew-tab-page&cn=app&pid=1&spid=243&hl=en&dm= (37)
+[1407:1407:0322/112816.968615:ERROR:CONSOLE(37)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: https://ogs.google.com/u/0/widget/app?awwd=1&gm3=1&origin=chrome-untrusted%3A%2F%2Fnew-tab-page&origin=chrome%3A%2F%2Fnew-tab-page&cn=app&pid=1&spid=243&hl=en&dm= (37)
+Fontconfig error: Cannot load default config file: No such file: (null)
+[1407:1407:0322/112941.435427:ERROR:CONSOLE(37)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: https://ogs.google.com/u/0/widget/app?awwd=1&gm3=1&origin=chrome-untrusted%3A%2F%2Fnew-tab-page&origin=chrome%3A%2F%2Fnew-tab-page&cn=app&pid=1&spid=243&hl=en&dm= (37)
+[1407:1407:0322/112941.435444:ERROR:CONSOLE(37)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: https://ogs.google.com/u/0/widget/app?awwd=1&gm3=1&origin=chrome-untrusted%3A%2F%2Fnew-tab-page&origin=chrome%3A%2F%2Fnew-tab-page&cn=app&pid=1&spid=243&hl=en&dm= (37)
+[1407:1407:0322/112941.435453:ERROR:CONSOLE(37)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: https://ogs.google.com/u/0/widget/app?awwd=1&gm3=1&origin=chrome-untrusted%3A%2F%2Fnew-tab-page&origin=chrome%3A%2F%2Fnew-tab-page&cn=app&pid=1&spid=243&hl=en&dm= (37)
+[1407:1407:0322/112941.435503:ERROR:CONSOLE(37)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: https://ogs.google.com/u/0/widget/app?awwd=1&gm3=1&origin=chrome-untrusted%3A%2F%2Fnew-tab-page&origin=chrome%3A%2F%2Fnew-tab-page&cn=app&pid=1&spid=243&hl=en&dm= (37)
+Fontconfig error: Cannot load default config file: No such file: (null)
+Cannot retrieve speedtest configuration
+ERROR: HTTP Error 403: Forbidden
+Cannot retrieve speedtest configuration
+ERROR: HTTP Error 403: Forbidden
+Cannot retrieve speedtest configuration
+ERROR: HTTP Error 403: Forbidden
+Cannot retrieve speedtest configuration
+ERROR: HTTP Error 403: Forbidden
+Cannot retrieve speedtest configuration
+ERROR: HTTP Error 403: Forbidden
+Cannot retrieve speedtest configuration
+ERROR: HTTP Error 403: Forbidden
+Cannot retrieve speedtest configuration
+ERROR: HTTP Error 403: Forbidden
+Cannot retrieve speedtest configuration
+ERROR: HTTP Error 403: Forbidden
+Cannot retrieve speedtest configuration
+ERROR: HTTP Error 403: Forbidden
+Cannot retrieve speedtest configuration
+ERROR: HTTP Error 403: Forbidden
+error 9: BadDrawable (invalid Pixmap or Window parameter) request 143 minor 1 serial 694017
+error 3: BadWindow (invalid Window parameter) request 129 minor 6 serial 694018
+error 3: BadWindow (invalid Window parameter) request 20 minor 0 serial 694019
+error 3: BadWindow (invalid Window parameter) request 15 minor 0 serial 694020
+error 3: BadWindow (invalid Window parameter) request 15 minor 0 serial 733203
+error 3: BadWindow (invalid Window parameter) request 15 minor 0 serial 733231
+error 140: BadRegion request 138 minor 14 serial 1073051
+Cannot retrieve speedtest configuration
+ERROR: HTTP Error 403: Forbidden
+CRITICAL: Source ID 44 was not found when attempting to remove it
+[12238:0322/113714.044141:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/113714.044172:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/113714.044190:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/113714.044207:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/113714.044231:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/113714.044274:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/113714.044303:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+CRITICAL: Source ID 49 was not found when attempting to remove it
+BUG: single log message > 4k
+error 3: BadWindow (invalid Window parameter) request 15 minor 0 serial 1131691
+error 9: BadDrawable (invalid Pixmap or Window parameter) request 143 minor 1 serial 1131699
+error 3: BadWindow (invalid Window parameter) request 129 minor 6 serial 1131700
+error 3: BadWindow (invalid Window parameter) request 20 minor 0 serial 1131701
+error 3: BadWindow (invalid Window parameter) request 15 minor 0 serial 1131702
+[libi3] ERROR: Could not parse color: #fff
+/home/rahul/.local/bin/statusbar/sb-brightness: line 13: printf: 20.0//1000: invalid number
+CRITICAL: Source ID 54 was not found when attempting to remove it
+[12238:0322/114412.960815:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/114412.960848:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/114412.960865:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/114412.960884:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/114412.960906:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/114412.960949:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/114412.960966:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+CRITICAL: Source ID 59 was not found when attempting to remove it
+[12238:0322/115416.046401:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/115416.046605:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/115416.046623:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/115416.046641:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/115416.046663:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/115416.046720:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/115416.046740:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[1407:1435:0322/115452.334505:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+[1407:1435:0322/115452.334649:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+[1407:1435:0322/115452.334851:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+[12325:0322/115452.332218:ERROR:socket_manager.cc(128)] Failed to resolve address for ec2-52-23-111-175.compute-1.amazonaws.com., errorcode: -106
+[12325:0322/115452.340976:ERROR:socket_manager.cc(128)] Failed to resolve address for ec2-52-23-111-175.compute-1.amazonaws.com., errorcode: -106
+CRITICAL: Source ID 69 was not found when attempting to remove it
+CRITICAL: Source ID 74 was not found when attempting to remove it
+CRITICAL: Source ID 79 was not found when attempting to remove it
+Fontconfig error: Cannot load default config file: No such file: (null)
+CRITICAL: Source ID 82 was not found when attempting to remove it
+ERROR: Unable to connect to servers to test latency.
+CRITICAL: Source ID 87 was not found when attempting to remove it
+WARNING: No icon found in path: 'dialog-information'
+CRITICAL: Source ID 95 was not found when attempting to remove it
+[12238:0322/120843.275712:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/120843.275766:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/120843.275802:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/120843.275833:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/120843.275866:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/120843.275971:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/120843.276007:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[17295:0322/120900.328114:ERROR:browser_main_loop.cc(276)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[17295:0322/120900.328710:ERROR:browser_main_loop.cc(276)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+CRITICAL: Source ID 108 was not found when attempting to remove it
+[12238:0322/121743.312521:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/121743.312553:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/121743.312571:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/121743.312588:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/121743.312610:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/121743.312657:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/121743.312676:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+CRITICAL: Source ID 111 was not found when attempting to remove it
+WARNING: No icon found in path: 'dialog-information'
+CRITICAL: Source ID 120 was not found when attempting to remove it
+[12238:0322/122838.215971:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/122838.216015:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/122838.216033:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/122838.216049:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/122838.216072:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/122838.216116:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/122838.216134:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+Cannot retrieve speedtest configuration
+ERROR: HTTP Error 403: Forbidden
+Cannot retrieve speedtest configuration
+ERROR: HTTP Error 403: Forbidden
+Cannot retrieve speedtest configuration
+ERROR: HTTP Error 403: Forbidden
+Cannot retrieve speedtest configuration
+ERROR: HTTP Error 403: Forbidden
+Cannot retrieve speedtest configuration
+ERROR: HTTP Error 403: Forbidden
+Cannot retrieve speedtest configuration
+ERROR: HTTP Error 403: Forbidden
+CRITICAL: Source ID 125 was not found when attempting to remove it
+Cannot retrieve speedtest configuration
+ERROR: HTTP Error 403: Forbidden
+Cannot retrieve speedtest configuration
+ERROR: HTTP Error 403: Forbidden
+Cannot retrieve speedtest configuration
+ERROR: HTTP Error 403: Forbidden
+Cannot retrieve speedtest configuration
+ERROR: HTTP Error 403: Forbidden
+[12238:0322/123810.356759:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/123810.356819:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/123810.356850:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/123810.356881:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/123810.356924:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/123810.357026:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/123810.357059:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12360:0322/124038.937417:ERROR:stun_port.cc(97)] Binding request timed out from 10.1.2.x:60469 (wlan0)
+CRITICAL: Source ID 128 was not found when attempting to remove it
+[1450:1454:0322/124229.199655:ERROR:ssl_client_socket_impl.cc(975)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1450:1454:0322/124229.444227:ERROR:ssl_client_socket_impl.cc(975)] handshake failed; returned -1, SSL error code 1, net_error -101
+CRITICAL: Source ID 133 was not found when attempting to remove it
+CRITICAL: Source ID 138 was not found when attempting to remove it
+[12238:0322/124709.528130:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/124709.528172:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/124709.528190:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/124709.528207:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/124709.528231:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/124709.528299:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/124709.528318:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+CRITICAL: Source ID 143 was not found when attempting to remove it
+CRITICAL: Source ID 148 was not found when attempting to remove it
+CRITICAL: Source ID 153 was not found when attempting to remove it
+CRITICAL: Source ID 158 was not found when attempting to remove it
+CRITICAL: Source ID 163 was not found when attempting to remove it
+CRITICAL: Source ID 168 was not found when attempting to remove it
+[12238:0322/125847.244813:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/125847.244856:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/125847.244888:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/125847.244918:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/125847.244956:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/125847.245036:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/125847.245066:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+CRITICAL: Source ID 173 was not found when attempting to remove it
+ERROR: Unable to connect to servers to test latency.
+[12325:0322/130104.955293:ERROR:ssl_client_socket_impl.cc(997)] handshake failed; returned -1, SSL error code 1, net_error -101
+[12360:0322/130320.325973:ERROR:stun_port.cc(97)] Binding request timed out from 10.1.2.x:46395 (wlan0)
+CRITICAL: Source ID 178 was not found when attempting to remove it
+CRITICAL: Source ID 183 was not found when attempting to remove it
+[12238:0322/130851.445640:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/130851.445701:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/130851.445741:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/130851.445775:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/130851.445821:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/130851.445916:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/130851.445959:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+CRITICAL: Source ID 188 was not found when attempting to remove it
+CRITICAL: Source ID 193 was not found when attempting to remove it
+[12238:0322/131923.080737:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/131923.080797:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/131923.080821:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/131923.080841:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/131923.080869:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/131923.080922:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/131923.080953:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[17295:0322/131951.318272:ERROR:browser_main_loop.cc(276)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[17295:0322/131951.318599:ERROR:browser_main_loop.cc(276)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[17295:0322/131952.959126:ERROR:browser_main_loop.cc(276)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[17295:0322/131952.959443:ERROR:browser_main_loop.cc(276)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+CRITICAL: Source ID 198 was not found when attempting to remove it
+WARNING: No icon found in path: 'dialog-information'
+CRITICAL: Source ID 203 was not found when attempting to remove it
+[17295:0322/132413.131745:ERROR:browser_main_loop.cc(276)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[17295:0322/132413.132033:ERROR:browser_main_loop.cc(276)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+CRITICAL: Source ID 208 was not found when attempting to remove it
+CRITICAL: Source ID 211 was not found when attempting to remove it
+CRITICAL: Source ID 214 was not found when attempting to remove it
+[12238:0322/132828.758782:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/132828.758875:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/132828.758935:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/132828.758993:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/132828.759065:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/132828.759208:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/132828.759266:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+Cannot retrieve speedtest configuration
+ERROR: HTTP Error 403: Forbidden
+Cannot retrieve speedtest configuration
+ERROR: HTTP Error 403: Forbidden
+CRITICAL: Source ID 217 was not found when attempting to remove it
+Cannot retrieve speedtest configuration
+ERROR: HTTP Error 403: Forbidden
+Cannot retrieve speedtest configuration
+ERROR: HTTP Error 403: Forbidden
+Cannot retrieve speedtest configuration
+ERROR: HTTP Error 403: Forbidden
+CRITICAL: Source ID 222 was not found when attempting to remove it
+[1407:1435:0322/133243.335226:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Cannot retrieve speedtest configuration
+ERROR: HTTP Error 403: Forbidden
+Cannot retrieve speedtest configuration
+ERROR: HTTP Error 403: Forbidden
+Cannot retrieve speedtest configuration
+ERROR: HTTP Error 403: Forbidden
+Cannot retrieve speedtest configuration
+ERROR: HTTP Error 403: Forbidden
+Cannot retrieve speedtest configuration
+ERROR: HTTP Error 403: Forbidden
+CRITICAL: Source ID 227 was not found when attempting to remove it
+CRITICAL: Source ID 232 was not found when attempting to remove it
+[12238:0322/133939.199349:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/133939.199405:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/133939.199441:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/133939.199478:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/133939.199554:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/133939.199668:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/133939.199703:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+CRITICAL: Source ID 237 was not found when attempting to remove it
+CRITICAL: Source ID 242 was not found when attempting to remove it
+[12238:0322/134820.014694:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/134820.014733:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/134820.014756:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/134820.014779:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/134820.014812:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/134820.014868:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/134820.014891:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+/home/rahul/.local/bin/statusbar/sb-brightness: line 13: printf: 25.0//1000: invalid number
+/home/rahul/.local/bin/statusbar/sb-brightness: line 13: printf: 30.0//1000: invalid number
+/home/rahul/.local/bin/statusbar/sb-brightness: line 13: printf: 35.0//1000: invalid number
+/home/rahul/.local/bin/statusbar/sb-brightness: line 13: printf: 40.0//1000: invalid number
+/home/rahul/.local/bin/statusbar/sb-brightness: line 13: printf: 45.0//1000: invalid number
+/home/rahul/.local/bin/statusbar/sb-brightness: line 13: printf: 50.0//1000: invalid number
+/home/rahul/.local/bin/statusbar/sb-brightness: line 13: printf: 55.0//1000: invalid number
+/home/rahul/.local/bin/statusbar/sb-brightness: line 13: printf: 50.0//1000: invalid number
+/home/rahul/.local/bin/statusbar/sb-brightness: line 13: printf: 45.0//1000: invalid number
+/home/rahul/.local/bin/statusbar/sb-brightness: line 13: printf: 40.0//1000: invalid number
+/home/rahul/.local/bin/statusbar/sb-brightness: line 13: printf: 35.0//1000: invalid number
+/home/rahul/.local/bin/statusbar/sb-brightness: line 13: printf: 30.0//1000: invalid number
+/home/rahul/.local/bin/statusbar/sb-brightness: line 13: printf: 25.0//1000: invalid number
+/home/rahul/.local/bin/statusbar/sb-brightness: line 13: printf: 20.0//1000: invalid number
+/home/rahul/.local/bin/statusbar/sb-brightness: line 13: printf: 25.0//1000: invalid number
+/home/rahul/.local/bin/statusbar/sb-brightness: line 13: printf: 30.0//1000: invalid number
+/home/rahul/.local/bin/statusbar/sb-brightness: line 13: printf: 35.0//1000: invalid number
+/home/rahul/.local/bin/statusbar/sb-brightness: line 13: printf: 40.0//1000: invalid number
+/home/rahul/.local/bin/statusbar/sb-brightness: line 13: printf: 45.0//1000: invalid number
+/home/rahul/.local/bin/statusbar/sb-brightness: line 13: printf: 50.0//1000: invalid number
+/home/rahul/.local/bin/statusbar/sb-brightness: line 13: printf: 55.0//1000: invalid number
+/home/rahul/.local/bin/statusbar/sb-brightness: line 13: printf: 60.0//1000: invalid number
+/home/rahul/.local/bin/statusbar/sb-brightness: line 13: printf: 65.0//1000: invalid number
+/home/rahul/.local/bin/statusbar/sb-brightness: line 13: printf: 60.0//1000: invalid number
+/home/rahul/.local/bin/statusbar/sb-brightness: line 13: printf: 55.0//1000: invalid number
+/home/rahul/.local/bin/statusbar/sb-brightness: line 13: printf: 50.0//1000: invalid number
+/home/rahul/.local/bin/statusbar/sb-brightness: line 13: printf: 45.0//1000: invalid number
+/home/rahul/.local/bin/statusbar/sb-brightness: line 13: printf: 40.0//1000: invalid number
+/home/rahul/.local/bin/statusbar/sb-brightness: line 13: printf: 35.0//1000: invalid number
+/home/rahul/.local/bin/statusbar/sb-brightness: line 13: printf: 30.0//1000: invalid number
+/home/rahul/.local/bin/statusbar/sb-brightness: line 13: printf: 20.0//1000: invalid number
+/home/rahul/.local/bin/statusbar/sb-brightness: line 13: printf: 20.0//1000: invalid number
+/home/rahul/.local/bin/statusbar/sb-brightness: line 13: printf: 15.0//1000: invalid number
+/home/rahul/.local/bin/statusbar/sb-brightness: line 13: printf: 20.0//1000: invalid number
+/home/rahul/.local/bin/statusbar/sb-brightness: line 13: printf: 25.0//1000: invalid number
+/home/rahul/.local/bin/statusbar/sb-brightness: line 13: printf: 30.0//1000: invalid number
+/home/rahul/.local/bin/statusbar/sb-brightness: line 13: printf: 35.0//1000: invalid number
+/home/rahul/.local/bin/statusbar/sb-brightness: line 13: printf: 40.0//1000: invalid number
+/home/rahul/.local/bin/statusbar/sb-brightness: line 13: printf: 45.0//1000: invalid number
+/home/rahul/.local/bin/statusbar/sb-brightness: line 13: printf: 50.0//1000: invalid number
+CRITICAL: Source ID 251 was not found when attempting to remove it
+Fontconfig error: Cannot load default config file: No such file: (null)
+[12238:0322/135931.256530:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/135931.256578:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/135931.256606:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/135931.256632:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/135931.256664:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/135931.256740:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/135931.256782:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/140531.279121:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/140531.279154:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/140531.279173:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/140531.279189:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/140531.279210:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/140531.279250:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[12238:0322/140531.279267:ERROR:browser_main_loop.cc(269)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed

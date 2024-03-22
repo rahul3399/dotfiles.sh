@@ -1,0 +1,10 @@
+[Unit]
+Description=ActivityWatcher Service
+
+[Service]
+Type=simple
+ExecStart=/opt/activitywatch/aw-qt
+Restart=always
+
+[Install]
+WantedBy=user.target

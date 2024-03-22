@@ -1,0 +1,139 @@
+# #---Basic Definitions---# #
+set $term --no-startup-id $TERMINAL
+set $mod Mod4
+set $stoprec --no-startup-id dmenurecord kill
+set $shutdown sudo -A shutdown -h now
+set $reboot sudo -A reboot
+set $netrefresh --no-startup-id sudo -A systemctl restart NetworkManager
+set $hibernate sudo -A systemctl suspend
+
+exec --no-startup-id /usr/lib/geoclue-2.0/demos/agent
+exec --no-startup-id xss-lock --transfer-sleep-lock -- slock
+exec --no-startup-id nm-applet
+exec --no-startup-id blueman-applet
+exec --no-startup-id /home/nachiket/.local/bin/showkeys
+exec_always --no-startup-id xprop -f _NET_WM_WINDOW_OPACITY 32c -set _NET_WM_WINDOW_OPACITY 0xFFFFFFFF -id $(xprop -root | awk '/_NET_ACTIVE_WINDOW\(WINDOW\)/{print $NF}')
+
+font pango:Monospace Bold 8.5
+
+## No borders pls.
+default_border pixel 2
+# Statusbar colors
+set_from_resource $background color0  #000000
+set_from_resource $separator  color5  #635196
+set_from_resource $foreground color15 #f8f8ff
+
+
+gaps inner 4
+gaps outer -4
+
+# Workspace colors
+# Focused workspace
+set_from_resource $focused       color15 #f8f8ff
+
+# Active workspace
+set_from_resource $active       color15 #f8f8ff
+
+# Inactive workspace
+set_from_resource $inactive       color15 #f8f8ff
+
+# Urgent workspace
+set_from_resource $urgent     color9  #ff8e78
+
+bar {
+	font pango:Monospace Bold 9.5
+	status_command i3blocks
+	position top
+	mode dock
+	modifier None
+        strip_workspace_numbers yes
+        workspace_min_width 40
+	colors {
+                focused_workspace #953ce6 #381757 #fff
+		active_workspace   $background   $background   $active
+		inactive_workspace $background $background $inactive
+		urgent_workspace    $background  $background   $urgent
+                binding_mode        $background  $background  $urgent
+	}
+}
+
+#######################
+##### theme basics ####
+#######################
+set $bg       #020221
+set $fg       #f8f8ff
+set $red      #ff3600
+set $purple   #635196
+set $aqua     #99a4bc
+set $darkgray #b4b4b9
+set $lightbg  #020221
+########################
+##### i3 appearance ####
+########################
+#       Gruvbox Theme   brdr        bg          text    indictr     chld_brdr
+client.focused          $purple         $purple         $fg     $aqua       $bg
+client.focused_inactive $aqua       $aqua       $bg     $aqua       $bg
+client.unfocused        $bg         $bg         $darkgray     $bg         $bg
+client.urgent           $red        $red        $bg     $red        $red
+client.placeholder      $bg         $bg         $bg     $bg         $bg
+client.background       $bg
+
+set $ws1 "1"
+set $ws2 "2"
+set $ws3 "3"
+set $ws4 "4"
+set $ws5 "5"
+set $ws6 "6"
+set $ws7 "7"
+set $ws8 "8"
+set $ws9 "9"
+set $ws10 "10"
+
+# switch to workspace
+bindsym $mod+1		workspace $ws1
+bindsym $mod+2		workspace $ws2
+bindsym $mod+3		workspace $ws3
+bindsym $mod+4		workspace $ws4
+bindsym $mod+5		workspace $ws5
+bindsym $mod+6		workspace $ws6
+bindsym $mod+7		workspace $ws7
+bindsym $mod+8		workspace $ws8
+bindsym $mod+9		workspace $ws9
+bindsym $mod+0		workspace $ws10
+
+# move focused container to workspace
+bindsym $mod+Shift+1	move container to workspace $ws1
+bindsym $mod+Shift+2	move container to workspace $ws2
+bindsym $mod+Shift+3	move container to workspace $ws3
+bindsym $mod+Shift+4	move container to workspace $ws4
+bindsym $mod+Shift+5	move container to workspace $ws5
+bindsym $mod+Shift+6	move container to workspace $ws6
+bindsym $mod+Shift+7	move container to workspace $ws7
+bindsym $mod+Shift+8	move container to workspace $ws8
+bindsym $mod+Shift+9	move container to workspace $ws9
+bindsym $mod+Shift+0	move container to workspace $ws10
+
+# #---Function Buttons---# #
+bindsym $mod+F1		exec --no-startup-id groff -mom ${XDG_DATA_HOME:-$HOME/.local/share}/larbs/readme.mom -Tpdf | zathura -
+bindsym $mod+F2		restart
+bindsym $mod+F3		exec --no-startup-id displayselect
+bindsym $mod+F4		exec --no-startup-id prompt "Hibernate computer?" "$hibernate"
+bindsym $mod+F5		exec --no-startup-id $netrefresh
+bindsym $mod+F6		exec --no-startup-id torwrap
+bindsym $mod+F7		exec --no-startup-id td-toggle
+bindsym $mod+F8		exec --no-startup-id mailsync
+bindsym $mod+F9		exec --no-startup-id dmenumount
+bindsym $mod+F10	exec --no-startup-id dmenuumount
+bindsym $mod+F11	exec --no-startup-id ducksearch
+bindsym $mod+F12	exec $term -e nmtui
+bindsym $mod+Shift+F1	exec --no-startup-id toggle-welcome
+
+# For screenshots and recording
+bindsym Print 			exec --no-startup-id maim pic-full-"$(date '+%y%m%d-%H%M-%S').png"
+bindsym Shift+Print 		exec --no-startup-id maimpick
+bindsym $mod+Print		exec --no-startup-id dmenurecord
+bindsym $mod+Scroll_Lock	exec --no-startup-id "killall screenkey || screenkey"
+bindsym $mod+Delete		exec $stoprec
+bindsym XF86Launch1		exec --no-startup-id xset dpms force off
+
+# vim: filetype=i3

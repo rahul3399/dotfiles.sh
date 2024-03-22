@@ -1,0 +1,207 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="Applicare" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/logback/logback.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Arcturus.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="1" column="50" selection-start-line="1" selection-start-column="50" selection-end-line="1" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/trace-exclusions.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="518">
+              <caret line="100" column="8" selection-start-line="100" selection-start-column="8" selection-end-line="100" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="PLAIN_TEXT">
+      <summary usageCount="2" lastUsed="1707989766554" />
+    </fileType>
+    <fileType name="XML">
+      <summary usageCount="4" lastUsed="1707989766716" />
+    </fileType>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>saml</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="FindInProjectScope">
+    <option name="isProjectScope" value="true" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="TEXT">
+      <summary usageCount="2" lastUsage="1707989766556" />
+    </language>
+    <language id="XML">
+      <summary usageCount="4" lastUsage="1707989766716" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Applicare" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/rahul/Applicare}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Applicare" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/rahul/Applicare}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/rahul/Applicare/server}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Applicare" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/rahul/Applicare}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/rahul/Applicare/server}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/rahul/Applicare/server/webapps}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Applicare" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/rahul/Applicare}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/rahul/Applicare/server}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/rahul/Applicare/server/webapps}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/rahul/Applicare/server/webapps/applicare}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Applicare" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/rahul/Applicare}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/rahul/Applicare/server}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/rahul/Applicare/server/webapps}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/rahul/Applicare/server/webapps/applicare}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/rahul/Applicare/server/webapps/applicare/WEB-INF}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Applicare" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/rahul/Applicare}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/rahul/Applicare/server}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/rahul/Applicare/server/webapps}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/rahul/Applicare/server/webapps/applicare}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/rahul/Applicare/server/webapps/applicare/WEB-INF}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/rahul/Applicare/server/webapps/applicare/WEB-INF/classes}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Applicare" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/rahul/Applicare}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/rahul/Applicare/server}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/rahul/Applicare/server/webapps}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/rahul/Applicare/server/webapps/applicare}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/rahul/Applicare/server/webapps/applicare/WEB-INF}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/rahul/Applicare/server/webapps/applicare/WEB-INF/classes}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/rahul/Applicare/server/webapps/applicare/WEB-INF/classes/com}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Applicare" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/rahul/Applicare}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/rahul/Applicare/server}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/rahul/Applicare/server/webapps}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/rahul/Applicare/server/webapps/applicare}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/rahul/Applicare/server/webapps/applicare/WEB-INF}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/rahul/Applicare/server/webapps/applicare/WEB-INF/classes}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/rahul/Applicare/server/webapps/applicare/WEB-INF/classes/com}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/rahul/Applicare/server/webapps/applicare/WEB-INF/classes/com/arcturus}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Applicare" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/rahul/Applicare}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/rahul/Applicare/server}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/rahul/Applicare/server/webapps}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/rahul/Applicare/server/webapps/applicare}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/rahul/Applicare/server/webapps/applicare/WEB-INF}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/rahul/Applicare/server/webapps/applicare/WEB-INF/lib}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33011484" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <unified_weights left="0.33011484" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="724" y="281" key="FileChooserDialogImpl" timestamp="1707989772321">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="724" y="281" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1707989772321" />
+    <state x="480" y="286" width="704" height="596" key="find.popup" timestamp="1707918751307">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="480" y="286" width="704" height="596" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1707918751307" />
+    <state x="623" y="237" width="799" height="685" key="search.everywhere.popup" timestamp="1707923109508">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="237" width="799" height="685" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1707923109508" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/logback/logback.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Arcturus.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="50" selection-start-line="1" selection-start-column="50" selection-end-line="1" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trace-exclusions.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="518">
+          <caret line="100" column="8" selection-start-line="100" selection-start-column="8" selection-end-line="100" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

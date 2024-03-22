@@ -1,0 +1,892 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="auth-server-parent" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:Bug" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:CIS-2390_Bug" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:bugfix" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:bugfix1.0" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:bugfix1.0" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feat" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:release" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:upstream" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:upstream" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:CIS-3347-Fix-Hourly" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:upstream" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:CIS-3653" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:upstream" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:bugfix" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:upstream" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:bugfix" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:CIS-1594-Invoke-provisioning-flow-on-create" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:upstream" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:bugfix" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:CIS-1594-Invoke-provisioning-flow-on-create" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:update" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:upstream" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:bugfix" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:CIS-1594-Invoke-provisioning-flow-on-create" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:update" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:delete" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:upstream" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:bugfix" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:cis-2215" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:upstream" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:bugfix1.0" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:upstream" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:bugfix1.0" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:upstream" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:cloud" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:upstream" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:colibri" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:upstream" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:customer" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:upstream" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feat" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:upstream" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:upstream" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:CIS-1736_Invoke_update_Provisioning_after_enable" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:upstream" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:CIS-2020_Deduct_SMS" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:upstream" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:CIS-2045" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:upstream" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:featurre" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:upstream" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:hotfix" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:upstream" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:improvement" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:upstream" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:improvements" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:upstream" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:release" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:upstream" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:upgrade" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:upstream" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:vulnerability" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../auth-server-cloud/src/main/resources/test.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="14" column="55" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../auth-server/src/main/webapp/commonIncludes/actionmessages.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="440">
+              <caret line="20" column="22" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/../auth-server-onpremise/src/main/webapp/configureSMTP.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="26" column="59" selection-start-line="26" selection-start-column="59" selection-end-line="26" selection-end-column="76" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../auth-server-onpremise/src/main/webapp/admin/customer/home.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="14" column="60" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="DIFF">
+      <summary usageCount="1" lastUsed="1706786993767" />
+    </fileType>
+    <fileType name="JAVA">
+      <summary usageCount="184" lastUsed="1707427661041" />
+    </fileType>
+    <fileType name="JSP">
+      <summary usageCount="18" lastUsed="1710932867038" />
+    </fileType>
+    <fileType name="JavaScript">
+      <summary usageCount="5" lastUsed="1705556036576" />
+    </fileType>
+    <fileType name="Properties">
+      <summary usageCount="11" lastUsed="1710932800869" />
+    </fileType>
+    <fileType name="SQL">
+      <summary usageCount="12" lastUsed="1705400305134" />
+    </fileType>
+    <fileType name="XML">
+      <summary usageCount="23" lastUsed="1706158992295" />
+    </fileType>
+    <fileType name="YAML">
+      <summary usageCount="3" lastUsed="1704292561175" />
+    </fileType>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>allow_change_password</find>
+      <find>phone number be</find>
+      <find>CORS Request URI denied:</find>
+      <find>insert into customer_p</find>
+      <find>registerProfile</find>
+      <find>id=&quot;registerProfile&quot;</find>
+      <find>cookie</find>
+      <find>Did not re</find>
+      <find>otp.resend.code</find>
+      <find>time</find>
+      <find>constru</find>
+      <find>i</find>
+      <find>rest/device/getuserattributes</find>
+      <find>brandingPreferences</find>
+      <find>getattributes</find>
+      <find>geta</find>
+      <find>getuserattributes</find>
+      <find>getUserAttributes()</find>
+      <find>getUserAttributes();</find>
+      <find>geo</find>
+      <find>getUserAttributes(</find>
+      <find>resendrbachallenge</find>
+      <find>FRAUD_PREVENTION_CHALLENGE_FLOW</find>
+      <find>resendotp</find>
+      <find>constructOTpMA</find>
+      <find>last</find>
+      <find>externalEndUserId</find>
+      <find>rbaRegisteredProfiles</find>
+      <find>rbauserProfile</find>
+      <find>customer</find>
+      <find>rbauser</find>
+      <find>userProfiles</find>
+      <find>rbaUserProfiles</find>
+      <find>IdentityBrokerAction</find>
+      <find>identityError()</find>
+      <find>IdentityBrokerAction identityError</find>
+      <find>findIdPAndRedirectOauthRequest</find>
+      <find>identityError</find>
+      <find>viewrbareport</find>
+      <find>createU</find>
+      <find>mapIdpResponseToEndUser</find>
+      <find>userprovisioning</find>
+      <find>ENC</find>
+      <find />
+      <find>actionmess</find>
+      <find>ctionmessages.jsp</find>
+      <find>actionmessages.jsp</find>
+      <find>actionmessage</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/../auth-server-bulk-operations/src/main/java/com/miniorange/mobileauth/otp/bulkoperations/cellprocessor/constraint</dir>
+      <dir>$PROJECT_DIR$/../auth-server-onpremise/src/main/resources/db</dir>
+      <dir>$PROJECT_DIR$/../auth-server/src/main/java/com/miniorange/mobileauth/otp/business/filters/verify</dir>
+      <dir>$PROJECT_DIR$/../auth-server-onpremise/src/main/resources</dir>
+      <dir>$PROJECT_DIR$/../auth-server/src/main/java/com/miniorange/mobileauth/otp/business/ws</dir>
+      <dir>$PROJECT_DIR$/../auth-server/src/main/webapp/js</dir>
+      <dir>$PROJECT_DIR$/../auth-server/src/main/java/com/miniorange/mobileauth/otp/business</dir>
+      <dir>$PROJECT_DIR$/../auth-server/src/main/webapp</dir>
+      <dir>$PROJECT_DIR$/../auth-server/src/main/java/com/miniorange/mobileauth/otp/fp/handler</dir>
+      <dir>$PROJECT_DIR$/../auth-server/src/main/java/com/miniorange/mobileauth/otp/dao</dir>
+      <dir>$PROJECT_DIR$/../auth-server-identity-broker/src/main/java/com/miniorange/mobileauth/otp/broker/action</dir>
+      <dir>$PROJECT_DIR$/../auth-server-identity-broker/src/main/java/com/miniorange/mobileauth/otp/broker/ws</dir>
+      <dir>$PROJECT_DIR$/../auth-server-cloud/src/main/resources</dir>
+      <dir>$PROJECT_DIR$/../auth-server-onpremise/src/main/webapp</dir>
+      <dir>$PROJECT_DIR$/../auth-server/src/main/webapp/commonIncludes</dir>
+    </dirStrings>
+  </component>
+  <component name="FindInProjectScope">
+    <option name="isProjectScope" value="true" />
+  </component>
+  <component name="GitBranchesPopupTreeState">
+    <expand>
+      <path>
+        <item name="TreeRoot" type="41d8a9c2:GitBranchesTreeModel$TreeRoot" />
+        <item name="RECENT" type="baf65d7a:GitBranchesTreeModel$RecentNode" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/../auth-server-service-loaders/src/main/java/com/miniorange/mobileauth/otp/loaders/utils/Utility.java" />
+      <option value="$PROJECT_DIR$/../auth-server/src/main/java/com/miniorange/mobileauth/otp/business/ws/DeviceAttributesCollectionService.java" />
+      <option value="$PROJECT_DIR$/../auth-server/src/main/webapp/js/collect_device_attributes.js" />
+      <option value="$PROJECT_DIR$/../auth-server/src/main/webapp/waitforuserinput.jsp" />
+      <option value="$PROJECT_DIR$/../auth-server/src/main/java/com/miniorange/mobileauth/otp/business/SMTPHandler.java" />
+      <option value="$PROJECT_DIR$/../auth-server/src/main/java/com/miniorange/mobileauth/otp/fp/dto/RbaAPIResponse.java" />
+      <option value="$PROJECT_DIR$/../auth-server-service-loaders/src/main/java/com/miniorange/mobileauth/otp/loaders/data/persistent/RbaRegisteredUserProfile.java" />
+      <option value="$PROJECT_DIR$/../auth-server/src/main/java/com/miniorange/mobileauth/otp/fp/handler/RbaAPIHandler.java" />
+      <option value="$PROJECT_DIR$/../auth-server/src/main/java/com/miniorange/mobileauth/otp/fp/dto/RbaAPIRequest.java" />
+      <option value="$PROJECT_DIR$/../auth-server-identity-broker/src/main/java/com/miniorange/mobileauth/otp/broker/action/IdentityBrokerAction.java" />
+      <option value="$PROJECT_DIR$/../auth-server-identity-broker/src/main/java/com/miniorange/mobileauth/otp/broker/ws/IdentityBrokerService.java" />
+      <option value="$PROJECT_DIR$/../auth-server/src/main/java/com/miniorange/mobileauth/otp/business/EndUserHandler.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="JAVA">
+      <summary usageCount="184" lastUsage="1707427661041" />
+    </language>
+    <language id="Properties">
+      <summary usageCount="11" lastUsage="1710932800869" />
+    </language>
+    <language id="XML">
+      <summary usageCount="23" lastUsage="1706158992295" />
+    </language>
+    <language id="yaml">
+      <summary usageCount="3" lastUsage="1704292561175" />
+    </language>
+  </component>
+  <component name="MavenProjectNavigator">
+    <option name="groupStructurally" value="true" />
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="e529d0c5:RootNode" />
+          <item name="Profiles" type="f3800865:ProfilesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="auth-server-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/rahul/miniorange/miniorange-iam-2020/auth-server-parent}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local">
+        <shellCommand>
+          <arg value="/usr/bin/fish" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info id="Bookmarks" show_stripe_button="false" side_tool="true" />
+      <window_info id="Pull Requests" show_stripe_button="false" />
+      <window_info id="Merge Requests" show_stripe_button="false" />
+      <window_info id="Learn" show_stripe_button="false" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5005208" visible="true" weight="0.2158142" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info active="true" id="Structure" order="2" sideWeight="0.49947917" side_tool="true" visible="true" weight="0.2158142" />
+      <window_info anchor="bottom" id="TODO" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.3303232" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.3303232" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.33027077" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info active="true" anchor="bottom" id="Build" order="5" visible="true" weight="0.3303232" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.33011484" />
+      <window_info anchor="right" id="Coverage" order="5" side_tool="true" />
+      <unified_weights bottom="0.33027077" left="0.2158142" right="0.33011484" />
+    </layoutV2>
+    <recentWindows>
+      <value>Terminal</value>
+      <value>Structure</value>
+      <value>Version Control</value>
+      <value>Project</value>
+      <value>Build</value>
+      <value>Problems View</value>
+      <value>Maven</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="553" y="184" width="1112" height="669" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1705388543581">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="553" y="184" width="1112" height="669" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1705388543581" />
+    <state x="601" y="241" key="FileChooserDialogImpl" timestamp="1707175831419">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="601" y="241" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1707175831419" />
+    <state x="473" y="118" key="SettingsEditor" timestamp="1705388493745">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="473" y="118" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1705388493745" />
+    <state x="687" y="191" width="528" height="576" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1705400633680">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="687" y="191" width="528" height="576" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1705400633680" />
+    <state x="470" y="186" width="1450" height="894" key="find.popup" timestamp="1710932975386">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="470" y="186" width="1450" height="894" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1710932975386" />
+    <state x="623" y="234" width="857" height="712" key="search.everywhere.popup" timestamp="1710932895068">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="234" width="857" height="712" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1710932895068" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../auth-server-bulk-operations/src/main/java/com/miniorange/mobileauth/otp/bulkoperations/business/threads/BulkProcessingBackgroundThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker/moas-cloud/docker-compose.sample.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../auth-server-cloud/src/main/resources/local/log4j2.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="55" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../auth-server-bulk-operations/src/main/java/com/miniorange/mobileauth/otp/bulkoperations/business/tasks/enduser/csv/UserCSVMapping.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="55" column="35" selection-start-line="55" selection-start-column="35" selection-end-line="55" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../auth-server/src/main/java/com/miniorange/mobileauth/otp/idp/action/IdpSAMLLoginAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2068">
+          <caret line="130" column="80" selection-start-line="130" selection-start-column="80" selection-end-line="130" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../auth-server-bulk-operations/src/main/java/com/miniorange/mobileauth/otp/bulkoperations/cellprocessor/constraint/ValidPhoneNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="38" column="38" selection-start-line="38" selection-start-column="38" selection-end-line="38" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../auth-server-onpremise/src/main/resources/db/updates.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../auth-server/src/main/java/com/miniorange/mobileauth/otp/business/filters/CORSValidator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="46" column="34" selection-start-line="46" selection-start-column="34" selection-end-line="46" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../auth-server/src/main/java/com/miniorange/mobileauth/otp/business/filters/CORSAttributesRegistry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1386">
+          <caret line="80" column="26" selection-start-line="80" selection-start-column="26" selection-end-line="80" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../auth-server/src/main/java/com/miniorange/mobileauth/otp/business/filters/APIFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1342">
+          <caret line="72" column="41" selection-start-line="72" selection-start-column="41" selection-end-line="72" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../auth-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../auth-server/src/main/java/com/miniorange/mobileauth/otp/business/filters/verify/APIHeaderValidator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="16" column="46" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../auth-server/src/main/java/com/miniorange/mobileauth/otp/business/filters/verify/VerifyAuthHeaderFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="34" column="46" selection-start-line="34" selection-start-column="46" selection-end-line="34" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../auth-server/src/main/java/com/miniorange/mobileauth/otp/business/filters/verify/VerifyAuthorization.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../auth-server/src/main/java/com/miniorange/mobileauth/otp/business/filters/verify/DeprecatedHeader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="23" column="63" selection-start-line="23" selection-start-column="63" selection-end-line="23" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../auth-server/SQL-Updates.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159104">
+          <caret line="7232" selection-start-line="7232" selection-end-line="7234" selection-end-column="104" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../auth-server-onpremise/src/main/resources/spring-context-onpremise.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2398">
+          <caret line="109" column="33" selection-start-line="109" selection-start-column="33" selection-end-line="109" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../auth-server/src/main/webapp/waitforuserinput.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5082">
+          <caret line="231" column="86" selection-start-line="231" selection-start-column="86" selection-end-line="231" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../auth-server/src/main/java/com/miniorange/mobileauth/otp/business/ws/DeviceAttributesCollectionService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="48" column="76" selection-start-line="48" selection-start-column="76" selection-end-line="48" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../auth-server/src/main/webapp/broker-collect-rba-attributes.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="28" column="68" selection-start-line="28" selection-start-column="68" selection-end-line="28" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../auth-server/src/main/java/com/miniorange/mobileauth/otp/authn/session/AuthnSessionContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15642">
+          <caret line="856" column="16" selection-start-line="856" selection-start-column="16" selection-end-line="856" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../auth-server/src/main/java/com/miniorange/mobileauth/otp/dao/jdbc/JdbcValidateOtpAuditDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="809" column="45" selection-start-line="809" selection-start-column="36" selection-end-line="809" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../auth-server-service-loaders/src/main/java/com/miniorange/mobileauth/otp/loaders/data/persistent/jooq/tables/JooqValidateOtpAudit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="74" selection-start-line="74" selection-end-line="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../auth-server/src/main/java/com/miniorange/mobileauth/otp/idp/handler/IdpAuthenticationHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="438" column="67" selection-start-line="438" selection-start-column="67" selection-end-line="438" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../auth-server-service-loaders/src/main/java/com/miniorange/mobileauth/otp/loaders/utils/Constants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="603" column="15" selection-start-line="603" selection-start-column="15" selection-end-line="603" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../auth-server/src/main/webapp/js/collect_device_attributes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="892">
+          <caret line="568" column="1" selection-start-line="568" selection-start-column="1" selection-end-line="568" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#24828#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../auth-server-service-loaders/src/main/java/com/miniorange/mobileauth/otp/loaders/utils/Utility.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="892">
+          <caret line="890" column="37" selection-start-line="890" selection-start-column="25" selection-end-line="890" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../auth-server/src/main/resources/global.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="31" selection-start-line="31" selection-end-line="31" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../auth-server/src/main/java/com/miniorange/mobileauth/otp/business/filters/verify/ExternalHeader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../auth-server/src/main/java/com/miniorange/mobileauth/otp/fp/dto/RbaRegisteredUserProfileWrapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="45" lean-forward="true" selection-start-column="45" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../auth-server/src/main/java/com/miniorange/mobileauth/otp/business/SMTPHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54956">
+          <caret line="2602" column="168" selection-start-line="2602" selection-start-column="153" selection-end-line="2602" selection-end-column="168" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../auth-server/src/main/java/com/miniorange/mobileauth/otp/fp/handler/RbaRegisteredUserProfileHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="46" column="98" selection-start-line="46" selection-start-column="98" selection-end-line="47" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../auth-server/src/main/java/com/miniorange/mobileauth/otp/dao/jdbc/JdbcRbaRegisteredUserProfileDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="317" column="53" selection-start-line="317" selection-start-column="53" selection-end-line="317" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../auth-server/src/main/java/com/miniorange/mobileauth/otp/dao/RbaRegisteredUserProfileDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../auth-server-identity-broker/src/main/java/com/miniorange/mobileauth/otp/broker/action/IdentityBrokerAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="25" column="29" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../auth-server-identity-broker/src/main/java/com/miniorange/mobileauth/otp/broker/ws/IdentityBrokerService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5742">
+          <caret line="298" selection-start-line="298" selection-end-line="298" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../auth-server/src/main/resources/struts-customer-admin.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34386">
+          <caret line="1563" column="46" selection-start-line="1563" selection-start-column="36" selection-end-line="1563" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../auth-server/src/main/java/com/miniorange/mobileauth/otp/business/action/BaseAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8778">
+          <caret line="464" column="30" selection-start-line="464" selection-start-column="30" selection-end-line="464" selection-end-column="30" />
+          <folding>
+            <element signature="e#21226#21227#0" expanded="true" />
+            <element signature="e#21282#21283#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../auth-server/src/main/java/com/miniorange/mobileauth/otp/fp/handler/RbaAPIHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9768">
+          <caret line="459" column="46" selection-start-line="459" selection-start-column="46" selection-end-line="459" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../auth-server/src/main/java/com/miniorange/mobileauth/otp/fp/dto/RbaAPIRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../auth-server-service-loaders/src/main/java/com/miniorange/mobileauth/otp/loaders/OptionsHandlerProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../auth-server/src/main/java/com/miniorange/mobileauth/otp/fp/dto/RbaAPIResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1782">
+          <caret line="118" column="34" selection-start-line="118" selection-start-column="19" selection-end-line="118" selection-end-column="34" />
+          <folding>
+            <element signature="e#871#897#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../auth-server-service-loaders/src/main/java/com/miniorange/mobileauth/otp/loaders/data/persistent/RbaRegisteredUserProfile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3564">
+          <caret line="168" column="27" selection-start-line="168" selection-start-column="27" selection-end-line="168" selection-end-column="27" />
+          <folding>
+            <element signature="e#5759#5760#0" expanded="true" />
+            <element signature="e#5797#5798#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../auth-server-service-loaders/src/main/java/com/miniorange/mobileauth/otp/loaders/data/persistent/interface_/IRbaRegisteredUserProfile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4180">
+          <caret line="195" column="35" selection-start-line="195" selection-start-column="35" selection-end-line="195" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../auth-server/src/main/webapp/rbareports.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="149" column="59" selection-start-line="149" selection-start-column="59" selection-end-line="149" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../auth-server/src/main/java/com/miniorange/mobileauth/otp/provisioning/attributes/providers/AttributeValueProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../auth-server/src/main/java/com/miniorange/mobileauth/otp/business/EndUserHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="293" column="7" selection-start-line="293" selection-start-column="7" selection-end-line="293" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../auth-server-cloud/src/main/resources/test.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="55" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../auth-server-onpremise/src/main/webapp/admin/customer/home.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="14" column="60" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../auth-server/src/main/webapp/commonIncludes/actionmessages.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="22" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../auth-server-onpremise/src/main/webapp/configureSMTP.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="26" column="59" selection-start-line="26" selection-start-column="59" selection-end-line="26" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

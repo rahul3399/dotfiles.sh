@@ -1,0 +1,106 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/miniorange/miniorange-iam-2023-ganeshk/auth-server-parent">
+          <value>
+            <RecentProjectMetaInfo frameTitle="auth-server-parent – web.xml [auth-server-onpremise]" projectWorkspaceId="2by8D6UIqR6C20OtbbYj31cs73e">
+              <option name="activationTimestamp" value="1707242585144" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-233.13135.103" />
+              <option name="buildTimestamp" value="1703248320000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="0" />
+              </option>
+              <frame x="0" y="6" width="1920" height="1074" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1707175835455" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/miniorange/miniorange-oracle-chirag/ebsauth-saml">
+          <value>
+            <RecentProjectMetaInfo frameTitle="ebsauth-saml – connector.properties" projectWorkspaceId="2cLbrDjpHiPrcwn5GfSxwg70thG">
+              <option name="activationTimestamp" value="1707918669128" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-233.14015.106" />
+              <option name="buildTimestamp" value="1706226780000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="1" />
+              </option>
+              <frame x="0" y="6" width="1920" height="1074" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1707894149517" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Applicare">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Applicare – trace-exclusions.txt" projectWorkspaceId="2cMPr8JxIQaaePq26PsIsNCyjeA">
+              <option name="activationTimestamp" value="1707989772373" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-233.14015.106" />
+              <option name="buildTimestamp" value="1706226780000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="2" />
+              </option>
+              <frame x="0" y="6" width="1920" height="1074" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1707918669321" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/miniorange/miniorange-oracle-chirag/awrostamani/restauth">
+          <value>
+            <RecentProjectMetaInfo frameTitle="restauth – ~/.m2/repository/EBSSDK/EBSSDK/2.0.8/EBSSDK-2.0.8.jar!/oracle/apps/fnd/ext/common/State.class" projectWorkspaceId="2KAaSPodw12C8i7A3gwmBKlNzlC">
+              <option name="activationTimestamp" value="1709642200945" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-233.14015.106" />
+              <option name="buildTimestamp" value="1706226780000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="8" />
+              </option>
+              <frame x="0" y="6" width="1920" height="1074" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1707989779008" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/miniorange/better-reverse-proxy">
+          <value>
+            <RecentProjectMetaInfo frameTitle="better-reverse-proxy – ProxyVerticleImplConverter.java" projectWorkspaceId="2azSTwZDoXWio2Ff0ltoaaWo4Da">
+              <option name="activationTimestamp" value="1710932246181" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-233.14015.106" />
+              <option name="buildTimestamp" value="1706226780000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="7" />
+              </option>
+              <frame x="0" y="24" width="1920" height="1056" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1709642243788" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/miniorange/miniorange-iam-2020/auth-server-parent">
+          <value>
+            <RecentProjectMetaInfo frameTitle="auth-server-parent – test.properties [auth-server-cloud]" opened="true" projectWorkspaceId="2aORe2EfTqJ5dDuAaVNBdv7sEPO">
+              <option name="activationTimestamp" value="1710933990841" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-233.14015.106" />
+              <option name="buildTimestamp" value="1706226780000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="6" />
+              </option>
+              <frame x="0" y="6" width="1920" height="1074" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1710932800882" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/miniorange/miniorange-iam-2020/auth-server-parent" />
+    <option name="lastProjectLocation" value="$USER_HOME$/miniorange/miniorange-oracle-chirag" />
+  </component>
+</application>

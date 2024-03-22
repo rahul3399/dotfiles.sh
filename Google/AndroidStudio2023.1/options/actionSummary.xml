@@ -1,0 +1,82 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Undo">
+      <i c="2" l="1707824064008" />
+    </e>
+    <e n="CloseProject">
+      <i c="1" l="1710841629640" />
+    </e>
+    <e n="CreateDesktopEntry">
+      <i c="2" l="1710306815078" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="19" l="1710841722104" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="6" l="1707824047776" />
+    </e>
+    <e n="EditorCopy">
+      <i c="10" l="1710841869023" />
+    </e>
+    <e n="EditorDeleteToWordStart">
+      <i c="9" l="1710322546369" />
+    </e>
+    <e n="EditorDown">
+      <i c="1" l="1710322547287" />
+    </e>
+    <e n="EditorEnter">
+      <i c="7" l="1710322549044" />
+    </e>
+    <e n="EditorEscape">
+      <i c="1" l="1707822564460" />
+    </e>
+    <e n="EditorLeft">
+      <i c="1" l="1707823922425" />
+    </e>
+    <e n="EditorNextWord">
+      <i c="7" l="1707823930108" />
+    </e>
+    <e n="EditorPaste">
+      <i c="5" l="1707824063413" />
+    </e>
+    <e n="EditorRight">
+      <i c="3" l="1710322537675" />
+    </e>
+    <e n="EditorScrollUp">
+      <i c="1" l="1707823717750" />
+    </e>
+    <e n="EditorUp">
+      <i c="8" l="1710322538301" />
+    </e>
+    <e n="MakeGradleProject">
+      <i c="2" l="1710322552318" />
+    </e>
+    <e n="OpenFile">
+      <i c="2" l="1710841823093" />
+    </e>
+    <e n="Run">
+      <i c="1" l="1707823721185" />
+    </e>
+    <e n="SaveAll">
+      <i c="26" l="1710322559974" />
+    </e>
+    <e n="SearchEverywhere">
+      <i c="2" l="1710841719998" />
+    </e>
+    <e n="ShowIntentionActions">
+      <i c="1" l="1707824040943" />
+    </e>
+    <e n="WelcomeScreen.CreateNewProject">
+      <i c="1" l="1707822055802" />
+    </e>
+    <e n="WelcomeScreen.OpenProject">
+      <i c="1" l="1710841679538" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="1" l="1710841722966" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="1" l="1707822074607" />
+    </e>
+  </component>
+</application>

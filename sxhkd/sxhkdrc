@@ -1,0 +1,124 @@
+##################
+# i3 and windows #
+##################
+super + q
+    i3-msg kill
+super + shift + r
+    i3-msg restart
+
+## Focus ##
+super + {h, Left}
+    i3-msg focus left
+super + {j, Down}
+    i3-msg focus down
+super + {k, Up}
+    i3-msg focus up
+super + {l, Right}
+    i3-msg focus right
+super + shift + Tab
+    i3-msg focus left
+
+
+## Move ##
+super + shift + {j, Down}
+    i3-msg move down
+super + shift + {k, Up}
+    i3-msg move up
+super + shift + {l, Right}
+    i3-msg move right
+super + shift + {h, Left}
+    i3-msg move left
+
+# Other Window Management
+super + t
+    i3-msg split toggle
+super + f
+    i3-msg fullscreen toggle
+super + v
+    i3-msg layout default
+super + shift + v
+    i3-msg layout tabbed
+super + shift + space
+    i3-msg floating toggle
+super + space
+    i3-msg focus mode_toggle
+super + Tab
+    i3-msg workspace back_and_forth
+super + o
+    i3-msg sticky toggle
+
+##########
+# RESIZE #
+##########
+super + shift + y
+    i3resize left
+super + shift + u
+    i3resize down
+super + shift + i
+    i3resize up
+super + shift + o
+    i3resize right
+
+##############
+# Audio Keys #
+##############
+@XF86Audio{Raise,Lower}Volume
+    pactl set-sink-volume @DEFAULT_SINK@ {+,-}5%; pkill -RTMIN+10 i3blocks
+
+@XF86AudioMute
+    pactl set-sink-mute @DEFAULT_SINK@ toggle; pkill -RTMIN+10 i3blocks
+
+@XF86Audio{Play,Next,Prev}
+    playerctl {play-pause,next,previous}
+
+##############
+# Brightness #
+##############
+@XF86MonBrightness{Up,Down}
+    sudo ybacklight -{inc,dec} 5; pkill -RTMIN+11 i3blocks
+
+####################
+# Regular routines #
+####################
+super + shift + x
+    prompt "Shutdown?" "sudo -A shutdown -h now"
+
+super + shift + BackSpace
+    prompt "Reboot?" "sudo -A reboot"
+
+super + x
+    xset dpms force off
+
+super + shift + e
+    prompt "Logout and Exit i3?" "i3-msg exit"
+
+super + F2
+    prompt "Restart i3 inplace?" "i3-msg restart" && pkill -USR1 -x sxhkd
+
+################
+# Regular Apps #
+################
+
+super + Return
+    $TERMINAL 2>/dev/null
+
+super + shift Return
+    $TERMINAL -e tmux attach 2>/dev/null
+
+super + w
+    $BROWSER
+
+super + d
+    rofi -show {run,drun,window}
+
+super + shift + a
+    $TERMINAL -e pulsemixer
+
+#################
+# MISCELLENEOUS #
+#################
+super + grave
+  dmenuunicode
+
+
+# vim:ft=sxhkdrc

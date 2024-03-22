@@ -1,0 +1,81 @@
+!_TAG_FILE_ENCODING	utf-8	//
+cmp-buffer-all-buffers	cmp-buffer.md	/##### All buffers
+cmp-buffer-cmp-buffer	cmp-buffer.md	/# cmp-buffer
+cmp-buffer-configuration	cmp-buffer.md	/## Configuration
+cmp-buffer-get-bufnrs-type-fun-number	cmp-buffer.md	/### get_bufnrs (type: fun(): number\[\])
+cmp-buffer-indexing-and-how-to-optimize-it	cmp-buffer.md	/## Indexing and how to optimize it
+cmp-buffer-indexing-batch-size-type-number	cmp-buffer.md	/### indexing_batch_size (type: number)
+cmp-buffer-indexing-interval-type-number	cmp-buffer.md	/### indexing_interval (type: number)
+cmp-buffer-keyword-length-type-number	cmp-buffer.md	/### keyword_length (type: number)
+cmp-buffer-keyword-pattern-type-string	cmp-buffer.md	/### keyword_pattern (type: string)
+cmp-buffer-locality-bonus-comparator-distance-based-sorting	cmp-buffer.md	/## Locality bonus comparator (distance-based sorting)
+cmp-buffer-max-indexed-line-length-type-number	cmp-buffer.md	/### max_indexed_line_length (type: number)
+cmp-buffer-performance-on-large-text-files	cmp-buffer.md	/### Performance on large text files
+cmp-buffer-setup	cmp-buffer.md	/## Setup
+cmp-buffer-visible-buffers	cmp-buffer.md	/##### Visible buffers
+cmp-cmdline-cmp-cmdline	cmp-cmdline.md	/# cmp-cmdline
+cmp-cmdline-ignore-cmds-string	cmp-cmdline.md	/### ignore_cmds: string\[\]
+cmp-cmdline-option	cmp-cmdline.md	/# Option
+cmp-cmdline-setup	cmp-cmdline.md	/# Setup
+cmp-path-cmp-path	cmp-path.md	/# cmp-path
+cmp-path-configuration	cmp-path.md	/## Configuration
+cmp-path-get-cwd-type-function	cmp-path.md	/### get_cwd (type: function)
+cmp-path-label-trailing-slash-type-boolean	cmp-path.md	/### label_trailing_slash (type: boolean)
+cmp-path-setup	cmp-path.md	/# Setup
+cmp-path-trailing-slash-type-boolean	cmp-path.md	/### trailing_slash (type: boolean)
+falcon-big-thanks	falcon.md	/## Big Thanks
+falcon-contact	falcon.md	/## Contact
+falcon-get-started	falcon.md	/## Get started
+falcon-license	falcon.md	/## License
+gruvbox-airline-theme	gruvbox.md	/### Airline theme
+gruvbox-dark-mode	gruvbox.md	/### Dark mode
+gruvbox-light-mode	gruvbox.md	/### Light mode
+i3config.vim-author	i3config.vim.md	/### Author
+i3config.vim-background-information	i3config.vim.md	/## Background information
+i3config.vim-contribution	i3config.vim.md	/## Contribution
+i3config.vim-features	i3config.vim.md	/## Features
+i3config.vim-file-type-detection	i3config.vim.md	/### File type detection
+i3config.vim-git-submodule-pathogen	i3config.vim.md	/### Git submodule + Pathogen
+i3config.vim-i3config-vim-vim-i3-config-syntax-highlighting	i3config.vim.md	/# i3config.vim - vim i3 config syntax highlighting
+i3config.vim-inspired-by	i3config.vim.md	/## Inspired by
+i3config.vim-installation-instructions	i3config.vim.md	/## Installation instructions
+i3config.vim-license	i3config.vim.md	/## License
+i3config.vim-manual-installation	i3config.vim.md	/### Manual installation
+i3config.vim-vim-plug	i3config.vim.md	/### vim-plug
+i3config.vim-vundle	i3config.vim.md	/### Vundle
+i3config.vim-what-about-potatoesmaster-i3-vim-syntax	i3config.vim.md	/### What about PotatoesMaster\/i3-vim-syntax
+nvim-ts-rainbow-colours	nvim-ts-rainbow.md	/### Colours
+nvim-ts-rainbow-credits	nvim-ts-rainbow.md	/## Credits
+nvim-ts-rainbow-installation-and-setup	nvim-ts-rainbow.md	/## Installation and setup
+nvim-ts-rainbow-no-longer-maintained	nvim-ts-rainbow.md	/# NO LONGER MAINTAINED
+nvim-ts-rainbow-nvim-ts-rainbow	nvim-ts-rainbow.md	/# 🌈 nvim-ts-rainbow 🌈
+nvim-ts-rainbow-screenshots	nvim-ts-rainbow.md	/## Screenshots
+nvim-ts-rainbow-warning-notice-whatever	nvim-ts-rainbow.md	/## Warning\/notice\/whatever
+nvim-web-devicons-contributing	nvim-web-devicons.md	/## Contributing
+nvim-web-devicons-get-all-icons	nvim-web-devicons.md	/### Get all icons
+nvim-web-devicons-get-icon	nvim-web-devicons.md	/### Get Icon
+nvim-web-devicons-get-icon-and-color-code	nvim-web-devicons.md	/### Get icon and color code
+nvim-web-devicons-getting-icons-by-filetype	nvim-web-devicons.md	/### Getting icons by filetype
+nvim-web-devicons-installation	nvim-web-devicons.md	/## Installation
+nvim-web-devicons-notice	nvim-web-devicons.md	/# Notice
+nvim-web-devicons-nvim-web-devicons	nvim-web-devicons.md	/# Nvim-web-devicons
+nvim-web-devicons-requirements	nvim-web-devicons.md	/## Requirements
+nvim-web-devicons-set-an-icon	nvim-web-devicons.md	/### Set an icon
+nvim-web-devicons-setup	nvim-web-devicons.md	/### Setup
+nvim-web-devicons-usage	nvim-web-devicons.md	/## Usage
+nvim-web-devicons-variants	nvim-web-devicons.md	/### Variants
+reactor.nvim-basic-colorscheme	reactor.nvim.md	/## Basic Colorscheme
+reactor.nvim-credits	reactor.nvim.md	/## Credits
+reactor.nvim-css	reactor.nvim.md	/### CSS
+reactor.nvim-html	reactor.nvim.md	/### HTML
+reactor.nvim-installation	reactor.nvim.md	/## Installation
+reactor.nvim-javascript	reactor.nvim.md	/### Javascript
+reactor.nvim-lua	reactor.nvim.md	/### Lua
+reactor.nvim-lualine	reactor.nvim.md	/## Lualine
+reactor.nvim-packer	reactor.nvim.md	/## Packer
+reactor.nvim-plug	reactor.nvim.md	/## Plug
+reactor.nvim-reactor-colorscheme	reactor.nvim.md	/# Reactor Colorscheme
+reactor.nvim-rust	reactor.nvim.md	/### Rust
+reactor.nvim-screenshots	reactor.nvim.md	/## Screenshots
+reactor.nvim-telescope	reactor.nvim.md	/### Telescope
+reactor.nvim-usage	reactor.nvim.md	/## Usage

@@ -1,0 +1,41 @@
+
+[global]
+	geometry = "300x5-30+20"
+	font = Monospace 13
+	format = "<b>%s</b>\n%b"
+	# Window Transparency
+	transparency = 0
+	# Height of separator between notifications
+	separator_height = 2
+	# Vertical padding
+	padding = 8
+	# Horizontal padding
+	horizontal_padding = 8
+	# Border width.  Set to 0 to disable
+	frame_width = 3
+	# Border color
+	frame_color = "#aaaaaa"
+	# Border color between notifications frame = same as above
+	separator_color = frame
+
+
+[urgency_low]
+    	background = "#000000"
+	foreground = "#00ff5e"
+	frame_color = "#00ff5e"
+	timeout = 10
+
+
+[urgency_normal]
+        background = "#000000"
+	foreground = "#00ff5e"
+	frame_color = "#00ff5e"
+	timeout = 10
+
+
+[urgency_critical]
+	background = "#000000"
+	foreground = "#c61616"
+	frame_color = "#c61616"
+	timeout = 10
+

@@ -1,0 +1,48 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/AndroidStudioProjects/MyApplication">
+          <value>
+            <RecentProjectMetaInfo frameTitle="My Application – activity_main.xml [My_Application.app.main]" projectWorkspaceId="2cJG2n8b4HHp5sr17DCB1mHsMIg">
+              <option name="activationTimestamp" value="1710841626775" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-231.9392.1.2311.11330709" />
+              <option name="buildTimestamp" value="1705622029465" />
+              <frame x="0" y="6" width="1920" height="1074" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1710841253572" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/miniorange/mo-mobile-apps/MiniOrangeDemo/demoSSO">
+          <value>
+            <RecentProjectMetaInfo frameTitle="demoSSO – ~/miniorange/mo-mobile-apps/MiniOrangeDemo/demoSSO/app/src/main/AndroidManifest.xml" projectWorkspaceId="2dtyW79JWSMPjfPjnRo0UMSL4Lv">
+              <option name="activationTimestamp" value="1710841827992" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-231.9392.1.2311.11330709" />
+              <option name="buildTimestamp" value="1705622029465" />
+              <frame x="0" y="6" width="1920" height="1074" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1710841697694" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/miniorange/mo-mobile-apps/MiniOrangeDemo/DeliveryApp">
+          <value>
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="2dtymdvduh5BWenKru2luDjWlBr">
+              <option name="activationTimestamp" value="1710841950867" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-231.9392.1.2311.11330709" />
+              <option name="buildTimestamp" value="1705622029465" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1710841830132" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/miniorange/mo-mobile-apps/MiniOrangeDemo/DeliveryApp" />
+    <option name="lastProjectLocation" value="$USER_HOME$/AndroidStudioProjects" />
+  </component>
+</application>
